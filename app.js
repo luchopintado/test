@@ -9,12 +9,12 @@ class App {
     }
 
     init() {
-        let lineas = this.data.split('\n');
+        let lines = this.data.split('\n');
 
-        lineas.forEach(linea => {
-            if (linea) {
-                let nuevaLinea = linea.replace(/[“”]+/g, '').trim();
-                let [dep, prov, dist] = nuevaLinea.split('/').map(obj => obj.trim());
+        lines.forEach(line => {
+            if (line) {
+                let newLine = line.replace(/[“”]+/g, '').trim();
+                let [dep, prov, dist] = newLine.split('/').map(obj => obj.trim());
 
                 if (dep && !prov && !dist) {
                     this.departamentos.push(this.createDepartamento(dep));
