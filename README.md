@@ -13,5 +13,4 @@ No se ha utilizado ninguna libreria extra de Javascript ni de CSS, ni task runne
 Se ha codificado con **Javascript puro con Programación Orientada a Objetos** haciendo uso de Clases ES6
 
 ### Demo
-La url de la demo se encuentra [aquí](luchopintado.github.com/test) :
-[luchopintado.github.com/test](luchopintado.github.com/test)
+Url de la demo: https://luchopintado.github.io/test/
