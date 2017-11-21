@@ -3,9 +3,7 @@ class App {
     constructor(data, headers){
         this.headers = headers;
         this.data = data;
-        this.departamentos = [];
-        this.provincias = [];
-        this.distritos = [];
+        this.sqlScripts = [];
     }
 
     init() {
@@ -13,76 +11,49 @@ class App {
 
         lines.forEach(line => {
             if (line) {
-                let newLine = line.replace(/[“”]+/g, '').trim();
-                let [dep, prov, dist] = newLine.split('/').map(obj => obj.trim());
-
-                if (dep && !prov && !dist) {
-                    this.departamentos.push(this.createDepartamento(dep));
-                }
-
-                if (dep && prov && !dist) {
-                    this.provincias.push(this.createProvincia(dep, prov));
-                }
+                const regex = /(\d+)/g;
+                let [, , , codDep, dep, codProv, prov, codDist, dist] = line.split(regex);
 
                 if (dep && prov && dist) {
-                    this.distritos.push(this.createDistrito(dep, prov, dist));
+                    const u1 = codDep;
+                    const u2 = codProv.substr(-2);
+                    const u3 = codDist.substr(-2);
+
+                    this.sqlScripts.push(this.buildSQLScript(u1, u2, u3, dep, prov, dist));
                 }
             }
         });
 
-        this.buildDepTable();
-        this.buildProvTable();
-        this.buildDistTable();
+        this.renderSQLScript();
     }
 
-    createDepartamento (dep) {
-        let [id, ...nombre] = dep.trim().split(' ');
-        return new Departamento(id, nombre.join(' '));
+    renderSQLScript() {
+        document.querySelector('#sql').innerHTML = this.sqlScripts.join('\n');
     }
 
-    createProvincia(dep, prov) {
-        let [id, ...nombre] = prov.trim().split(' ');
-        let departamento = this.createDepartamento(dep);
-        return new Provincia(id, nombre.join(' '), departamento);
+    buildSQLScript(u1, u2, u3, dep, prov, dist) {
+        return `INSERT INTO GEOGRAPHIC_LOCATION(UBIGEO, DEPARTMENT_CODE, PROVINCE_CODE, DISTRICT_CODE, DEPARTMENT_NAME, PROVINCE_NAME,DISTRICT_NAME) VALUES ('${u1}${u2}${u3}', '${u1}', '${u2}', '${u3}', '${dep.trim()}', '${prov.trim()}', '${dist.trim()}');`;
     }
-
-    createDistrito(dep, prov, dist) {
-        let [id, ...nombre] = dist.trim().split(' ');
-        let provincia = this.createProvincia(dep, prov);
-        return new Distrito(id, nombre.join(' '), provincia);
-    }
-
-    buildDepTable(){
-        const table = new Table(this.headers, this.departamentos);
-        document.querySelector('.div-departamentos').innerHTML = table.buildTable();
-    }
-
-    buildProvTable(){
-        const table = new Table(this.headers, this.provincias);
-        document.querySelector('.div-provincias').innerHTML = table.buildTable();
-    }
-
-    buildDistTable(){
-        const table = new Table(this.headers, this.distritos);
-        document.querySelector('.div-distritos').innerHTML = table.buildTable();
-    }
-
 }
 
-const plainData = `
-    “01 Lima /  / ”
-    “01 Lima / 50 Lima / ”
-    “01 Lima / 51 Barranca / ”
-    “01 Lima / 50 Lima / 202 La Molina”
-    “01 Lima / 50 Lima / 203 San Isidro”
-    “02 Arequipa /  / ”
-    “02 Arequipa / 63 Arequipa / ”
-    “02 Arequipa / 64 Caylloma / ”
-    “02 Arequipa / 63 Arequipa / 267 Cercado”
-`;
-const headers = ['Código', 'Nombre', 'Código Padre', 'Descripción Padre']
-const app = new App(plainData, headers);
-app.init();
-
+const fetchHeaders = new Headers();
+fetchHeaders.append("Content-Type", "text/plain");
+var fetchParams = {
+    method: 'GET',
+    mode: 'cors',
+	redirect: 'follow',
+    headers: fetchHeaders,
+    cache: 'default'
+}
+var myRequest = new Request('./locations.txt', fetchParams);
+fetch(myRequest)
+    .then(response => {
+        return response.text();
+    })
+    .then(text => {
+        const headers = ['Correlativo', 'CodDep', 'Departamento', 'CodProv', 'Provincia', 'CodDist', 'Distrito'];
+        const app = new App(text, headers);
+        app.init();
+    });
 
 console.log('Finish app :D');

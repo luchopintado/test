@@ -1,0 +1,2095 @@
+1	01 Amazonas  		
+2	01 Amazonas	0101 Chachapoyas  	
+3	01 Amazonas	0101 Chachapoyas	010101 Chachapoyas  
+4	01 Amazonas	0101 Chachapoyas	010102 Asunción  
+5	01 Amazonas	0101 Chachapoyas	010103 Balsas  
+6	01 Amazonas	0101 Chachapoyas	010104 Cheto  
+7	01 Amazonas	0101 Chachapoyas	010105 Chiliquin  
+8	01 Amazonas	0101 Chachapoyas	010106 Chuquibamba  
+9	01 Amazonas	0101 Chachapoyas	010107 Granada  
+10	01 Amazonas	0101 Chachapoyas	010108 Huancas  
+11	01 Amazonas	0101 Chachapoyas	010109 La Jalca  
+12	01 Amazonas	0101 Chachapoyas	010110 Leimebamba  
+13	01 Amazonas	0101 Chachapoyas	010111 Levanto  
+14	01 Amazonas	0101 Chachapoyas	010112 Magdalena  
+15	01 Amazonas	0101 Chachapoyas	010113 Mariscal Castilla  
+16	01 Amazonas	0101 Chachapoyas	010114 Molinopampa  
+17	01 Amazonas	0101 Chachapoyas	010115 Montevideo  
+18	01 Amazonas	0101 Chachapoyas	010116 Olleros  
+19	01 Amazonas	0101 Chachapoyas	010117 Quinjalca  
+20	01 Amazonas	0101 Chachapoyas	010118 San Francisco de Daguas  
+21	01 Amazonas	0101 Chachapoyas	010119 San Isidro de Maino  
+22	01 Amazonas	0101 Chachapoyas	010120 Soloco  
+23	01 Amazonas	0101 Chachapoyas	010121 Sonche  
+24	01 Amazonas	0102 Bagua  	
+25	01 Amazonas	0102 Bagua	010201 Bagua  
+26	01 Amazonas	0102 Bagua	010202 Aramango  
+27	01 Amazonas	0102 Bagua	010203 Copallin  
+28	01 Amazonas	0102 Bagua	010204 El Parco  
+29	01 Amazonas	0102 Bagua	010205 Imaza  
+30	01 Amazonas	0102 Bagua	010206 La Peca  
+31	01 Amazonas	0103 Bongará  	
+32	01 Amazonas	0103 Bongará	010301 Jumbilla  
+33	01 Amazonas	0103 Bongará	010302 Chisquilla  
+34	01 Amazonas	0103 Bongará	010303 Churuja  
+35	01 Amazonas	0103 Bongará	010304 Corosha  
+36	01 Amazonas	0103 Bongará	010305 Cuispes  
+37	01 Amazonas	0103 Bongará	010306 Florida  
+38	01 Amazonas	0103 Bongará	010307 Jazan  
+39	01 Amazonas	0103 Bongará	010308 Recta  
+40	01 Amazonas	0103 Bongará	010309 San Carlos  
+41	01 Amazonas	0103 Bongará	010310 Shipasbamba  
+42	01 Amazonas	0103 Bongará	010311 Valera  
+43	01 Amazonas	0103 Bongará	010312 Yambrasbamba  
+44	01 Amazonas	0104 Condorcanqui  	
+45	01 Amazonas	0104 Condorcanqui	010401 Nieva  
+46	01 Amazonas	0104 Condorcanqui	010402 El Cenepa  
+47	01 Amazonas	0104 Condorcanqui	010403 Río Santiago  
+48	01 Amazonas	0105 Luya  	
+49	01 Amazonas	0105 Luya	010501 Lamud  
+50	01 Amazonas	0105 Luya	010502 Camporredondo  
+51	01 Amazonas	0105 Luya	010503 Cocabamba  
+52	01 Amazonas	0105 Luya	010504 Colcamar  
+53	01 Amazonas	0105 Luya	010505 Conila  
+54	01 Amazonas	0105 Luya	010506 Inguilpata  
+55	01 Amazonas	0105 Luya	010507 Longuita  
+56	01 Amazonas	0105 Luya	010508 Lonya Chico  
+57	01 Amazonas	0105 Luya	010509 Luya  
+58	01 Amazonas	0105 Luya	010510 Luya Viejo  
+59	01 Amazonas	0105 Luya	010511 María  
+60	01 Amazonas	0105 Luya	010512 Ocalli  
+61	01 Amazonas	0105 Luya	010513 Ocumal  
+62	01 Amazonas	0105 Luya	010514 Pisuquia  
+63	01 Amazonas	0105 Luya	010515 Providencia  
+64	01 Amazonas	0105 Luya	010516 San Cristóbal  
+65	01 Amazonas	0105 Luya	010517 San Francisco de Yeso  
+66	01 Amazonas	0105 Luya	010518 San Jerónimo  
+67	01 Amazonas	0105 Luya	010519 San Juan de Lopecancha  
+68	01 Amazonas	0105 Luya	010520 Santa Catalina  
+69	01 Amazonas	0105 Luya	010521 Santo Tomas  
+70	01 Amazonas	0105 Luya	010522 Tingo  
+71	01 Amazonas	0105 Luya	010523 Trita  
+72	01 Amazonas	0106 Rodríguez de Mendoza  	
+73	01 Amazonas	0106 Rodríguez de Mendoza	010601 San Nicolás  
+74	01 Amazonas	0106 Rodríguez de Mendoza	010602 Chirimoto  
+75	01 Amazonas	0106 Rodríguez de Mendoza	010603 Cochamal  
+76	01 Amazonas	0106 Rodríguez de Mendoza	010604 Huambo  
+77	01 Amazonas	0106 Rodríguez de Mendoza	010605 Limabamba  
+78	01 Amazonas	0106 Rodríguez de Mendoza	010606 Longar  
+79	01 Amazonas	0106 Rodríguez de Mendoza	010607 Mariscal Benavides  
+80	01 Amazonas	0106 Rodríguez de Mendoza	010608 Milpuc  
+81	01 Amazonas	0106 Rodríguez de Mendoza	010609 Omia  
+82	01 Amazonas	0106 Rodríguez de Mendoza	010610 Santa Rosa  
+83	01 Amazonas	0106 Rodríguez de Mendoza	010611 Totora  
+84	01 Amazonas	0106 Rodríguez de Mendoza	010612 Vista Alegre  
+85	01 Amazonas	0107 Utcubamba  	
+86	01 Amazonas	0107 Utcubamba	010701 Bagua Grande  
+87	01 Amazonas	0107 Utcubamba	010702 Cajaruro  
+88	01 Amazonas	0107 Utcubamba	010703 Cumba  
+89	01 Amazonas	0107 Utcubamba	010704 El Milagro  
+90	01 Amazonas	0107 Utcubamba	010705 Jamalca  
+91	01 Amazonas	0107 Utcubamba	010706 Lonya Grande  
+92	01 Amazonas	0107 Utcubamba	010707 Yamon  
+93	02 Áncash  		
+94	02 Áncash	0201 Huaraz  	
+95	02 Áncash	0201 Huaraz	020101 Huaraz  
+96	02 Áncash	0201 Huaraz	020102 Cochabamba  
+97	02 Áncash	0201 Huaraz	020103 Colcabamba  
+98	02 Áncash	0201 Huaraz	020104 Huanchay  
+99	02 Áncash	0201 Huaraz	020105 Independencia  
+100	02 Áncash	0201 Huaraz	020106 Jangas  
+101	02 Áncash	0201 Huaraz	020107 La Libertad  
+102	02 Áncash	0201 Huaraz	020108 Olleros  
+103	02 Áncash	0201 Huaraz	020109 Pampas Grande  
+104	02 Áncash	0201 Huaraz	020110 Pariacoto  
+105	02 Áncash	0201 Huaraz	020111 Pira  
+106	02 Áncash	0201 Huaraz	020112 Tarica  
+107	02 Áncash	0202 Aija  	
+108	02 Áncash	0202 Aija	020201 Aija  
+109	02 Áncash	0202 Aija	020202 Coris  
+110	02 Áncash	0202 Aija	020203 Huacllan  
+111	02 Áncash	0202 Aija	020204 La Merced  
+112	02 Áncash	0202 Aija	020205 Succha  
+113	02 Áncash	0203 Antonio Raymondi  	
+114	02 Áncash	0203 Antonio Raymondi	020301 Llamellin  
+115	02 Áncash	0203 Antonio Raymondi	020302 Aczo  
+116	02 Áncash	0203 Antonio Raymondi	020303 Chaccho  
+117	02 Áncash	0203 Antonio Raymondi	020304 Chingas  
+118	02 Áncash	0203 Antonio Raymondi	020305 Mirgas  
+119	02 Áncash	0203 Antonio Raymondi	020306 San Juan de Rontoy  
+120	02 Áncash	0204 Asunción  	
+121	02 Áncash	0204 Asunción	020401 Chacas  
+122	02 Áncash	0204 Asunción	020402 Acochaca  
+123	02 Áncash	0205 Bolognesi  	
+124	02 Áncash	0205 Bolognesi	020501 Chiquian  
+125	02 Áncash	0205 Bolognesi	020502 Abelardo Pardo Lezameta  
+126	02 Áncash	0205 Bolognesi	020503 Antonio Raymondi  
+127	02 Áncash	0205 Bolognesi	020504 Aquia  
+128	02 Áncash	0205 Bolognesi	020505 Cajacay  
+129	02 Áncash	0205 Bolognesi	020506 Canis  
+130	02 Áncash	0205 Bolognesi	020507 Colquioc  
+131	02 Áncash	0205 Bolognesi	020508 Huallanca  
+132	02 Áncash	0205 Bolognesi	020509 Huasta  
+133	02 Áncash	0205 Bolognesi	020510 Huayllacayan  
+134	02 Áncash	0205 Bolognesi	020511 La Primavera  
+135	02 Áncash	0205 Bolognesi	020512 Mangas  
+136	02 Áncash	0205 Bolognesi	020513 Pacllon  
+137	02 Áncash	0205 Bolognesi	020514 San Miguel de Corpanqui  
+138	02 Áncash	0205 Bolognesi	020515 Ticllos  
+139	02 Áncash	0206 Carhuaz  	
+140	02 Áncash	0206 Carhuaz	020601 Carhuaz  
+141	02 Áncash	0206 Carhuaz	020602 Acopampa  
+142	02 Áncash	0206 Carhuaz	020603 Amashca  
+143	02 Áncash	0206 Carhuaz	020604 Anta  
+144	02 Áncash	0206 Carhuaz	020605 Ataquero  
+145	02 Áncash	0206 Carhuaz	020606 Marcara  
+146	02 Áncash	0206 Carhuaz	020607 Pariahuanca  
+147	02 Áncash	0206 Carhuaz	020608 San Miguel de Aco  
+148	02 Áncash	0206 Carhuaz	020609 Shilla  
+149	02 Áncash	0206 Carhuaz	020610 Tinco  
+150	02 Áncash	0206 Carhuaz	020611 Yungar  
+151	02 Áncash	0207 Carlos Fermín Fitzcarrald  	
+152	02 Áncash	0207 Carlos Fermín Fitzcarrald	020701 San Luis  
+153	02 Áncash	0207 Carlos Fermín Fitzcarrald	020702 San Nicolás  
+154	02 Áncash	0207 Carlos Fermín Fitzcarrald	020703 Yauya  
+155	02 Áncash	0208 Casma  	
+156	02 Áncash	0208 Casma	020801 Casma  
+157	02 Áncash	0208 Casma	020802 Buena Vista Alta  
+158	02 Áncash	0208 Casma	020803 Comandante Noel  
+159	02 Áncash	0208 Casma	020804 Yautan  
+160	02 Áncash	0209 Corongo  	
+161	02 Áncash	0209 Corongo	020901 Corongo  
+162	02 Áncash	0209 Corongo	020902 Aco  
+163	02 Áncash	0209 Corongo	020903 Bambas  
+164	02 Áncash	0209 Corongo	020904 Cusca  
+165	02 Áncash	0209 Corongo	020905 La Pampa  
+166	02 Áncash	0209 Corongo	020906 Yanac  
+167	02 Áncash	0209 Corongo	020907 Yupan  
+168	02 Áncash	0210 Huari  	
+169	02 Áncash	0210 Huari	021001 Huari  
+170	02 Áncash	0210 Huari	021002 Anra  
+171	02 Áncash	0210 Huari	021003 Cajay  
+172	02 Áncash	0210 Huari	021004 Chavin de Huantar  
+173	02 Áncash	0210 Huari	021005 Huacachi  
+174	02 Áncash	0210 Huari	021006 Huacchis  
+175	02 Áncash	0210 Huari	021007 Huachis  
+176	02 Áncash	0210 Huari	021008 Huantar  
+177	02 Áncash	0210 Huari	021009 Masin  
+178	02 Áncash	0210 Huari	021010 Paucas  
+179	02 Áncash	0210 Huari	021011 Ponto  
+180	02 Áncash	0210 Huari	021012 Rahuapampa  
+181	02 Áncash	0210 Huari	021013 Rapayan  
+182	02 Áncash	0210 Huari	021014 San Marcos  
+183	02 Áncash	0210 Huari	021015 San Pedro de Chana  
+184	02 Áncash	0210 Huari	021016 Uco  
+185	02 Áncash	0211 Huarmey  	
+186	02 Áncash	0211 Huarmey	021101 Huarmey  
+187	02 Áncash	0211 Huarmey	021102 Cochapeti  
+188	02 Áncash	0211 Huarmey	021103 Culebras  
+189	02 Áncash	0211 Huarmey	021104 Huayan  
+190	02 Áncash	0211 Huarmey	021105 Malvas  
+191	02 Áncash	0212 Huaylas  	
+192	02 Áncash	0212 Huaylas	021201 Caraz  
+193	02 Áncash	0212 Huaylas	021202 Huallanca  
+194	02 Áncash	0212 Huaylas	021203 Huata  
+195	02 Áncash	0212 Huaylas	021204 Huaylas  
+196	02 Áncash	0212 Huaylas	021205 Mato  
+197	02 Áncash	0212 Huaylas	021206 Pamparomas  
+198	02 Áncash	0212 Huaylas	021207 Pueblo Libre  
+199	02 Áncash	0212 Huaylas	021208 Santa Cruz  
+200	02 Áncash	0212 Huaylas	021209 Santo Toribio  
+201	02 Áncash	0212 Huaylas	021210 Yuracmarca  
+202	02 Áncash	0213 Mariscal Luzuriaga  	
+203	02 Áncash	0213 Mariscal Luzuriaga	021301 Piscobamba  
+204	02 Áncash	0213 Mariscal Luzuriaga	021302 Casca  
+205	02 Áncash	0213 Mariscal Luzuriaga	021303 Eleazar Guzmán Barron  
+206	02 Áncash	0213 Mariscal Luzuriaga	021304 Fidel Olivas Escudero  
+207	02 Áncash	0213 Mariscal Luzuriaga	021305 Llama  
+208	02 Áncash	0213 Mariscal Luzuriaga	021306 Llumpa  
+209	02 Áncash	0213 Mariscal Luzuriaga	021307 Lucma  
+210	02 Áncash	0213 Mariscal Luzuriaga	021308 Musga  
+211	02 Áncash	0214 Ocros  	
+212	02 Áncash	0214 Ocros	021401 Ocros  
+213	02 Áncash	0214 Ocros	021402 Acas  
+214	02 Áncash	0214 Ocros	021403 Cajamarquilla  
+215	02 Áncash	0214 Ocros	021404 Carhuapampa  
+216	02 Áncash	0214 Ocros	021405 Cochas  
+217	02 Áncash	0214 Ocros	021406 Congas  
+218	02 Áncash	0214 Ocros	021407 Llipa  
+219	02 Áncash	0214 Ocros	021408 San Cristóbal de Rajan  
+220	02 Áncash	0214 Ocros	021409 San Pedro  
+221	02 Áncash	0214 Ocros	021410 Santiago de Chilcas  
+222	02 Áncash	0215 Pallasca  	
+223	02 Áncash	0215 Pallasca	021501 Cabana  
+224	02 Áncash	0215 Pallasca	021502 Bolognesi  
+225	02 Áncash	0215 Pallasca	021503 Conchucos  
+226	02 Áncash	0215 Pallasca	021504 Huacaschuque  
+227	02 Áncash	0215 Pallasca	021505 Huandoval  
+228	02 Áncash	0215 Pallasca	021506 Lacabamba  
+229	02 Áncash	0215 Pallasca	021507 Llapo  
+230	02 Áncash	0215 Pallasca	021508 Pallasca  
+231	02 Áncash	0215 Pallasca	021509 Pampas  
+232	02 Áncash	0215 Pallasca	021510 Santa Rosa  
+233	02 Áncash	0215 Pallasca	021511 Tauca  
+234	02 Áncash	0216 Pomabamba  	
+235	02 Áncash	0216 Pomabamba	021601 Pomabamba  
+236	02 Áncash	0216 Pomabamba	021602 Huayllan  
+237	02 Áncash	0216 Pomabamba	021603 Parobamba  
+238	02 Áncash	0216 Pomabamba	021604 Quinuabamba  
+239	02 Áncash	0217 Recuay  	
+240	02 Áncash	0217 Recuay	021701 Recuay  
+241	02 Áncash	0217 Recuay	021702 Catac  
+242	02 Áncash	0217 Recuay	021703 Cotaparaco  
+243	02 Áncash	0217 Recuay	021704 Huayllapampa  
+244	02 Áncash	0217 Recuay	021705 Llacllin  
+245	02 Áncash	0217 Recuay	021706 Marca  
+246	02 Áncash	0217 Recuay	021707 Pampas Chico  
+247	02 Áncash	0217 Recuay	021708 Pararin  
+248	02 Áncash	0217 Recuay	021709 Tapacocha  
+249	02 Áncash	0217 Recuay	021710 Ticapampa  
+250	02 Áncash	0218 Santa  	
+251	02 Áncash	0218 Santa	021801 Chimbote  
+252	02 Áncash	0218 Santa	021802 Cáceres del Perú  
+253	02 Áncash	0218 Santa	021803 Coishco  
+254	02 Áncash	0218 Santa	021804 Macate  
+255	02 Áncash	0218 Santa	021805 Moro  
+256	02 Áncash	0218 Santa	021806 Nepeña  
+257	02 Áncash	0218 Santa	021807 Samanco  
+258	02 Áncash	0218 Santa	021808 Santa  
+259	02 Áncash	0218 Santa	021809 Nuevo Chimbote  
+260	02 Áncash	0219 Sihuas  	
+261	02 Áncash	0219 Sihuas	021901 Sihuas  
+262	02 Áncash	0219 Sihuas	021902 Acobamba  
+263	02 Áncash	0219 Sihuas	021903 Alfonso Ugarte  
+264	02 Áncash	0219 Sihuas	021904 Cashapampa  
+265	02 Áncash	0219 Sihuas	021905 Chingalpo  
+266	02 Áncash	0219 Sihuas	021906 Huayllabamba  
+267	02 Áncash	0219 Sihuas	021907 Quiches  
+268	02 Áncash	0219 Sihuas	021908 Ragash  
+269	02 Áncash	0219 Sihuas	021909 San Juan  
+270	02 Áncash	0219 Sihuas	021910 Sicsibamba  
+271	02 Áncash	0220 Yungay  	
+272	02 Áncash	0220 Yungay	022001 Yungay  
+273	02 Áncash	0220 Yungay	022002 Cascapara  
+274	02 Áncash	0220 Yungay	022003 Mancos  
+275	02 Áncash	0220 Yungay	022004 Matacoto  
+276	02 Áncash	0220 Yungay	022005 Quillo  
+277	02 Áncash	0220 Yungay	022006 Ranrahirca  
+278	02 Áncash	0220 Yungay	022007 Shupluy  
+279	02 Áncash	0220 Yungay	022008 Yanama  
+280	03 Apurímac  		
+281	03 Apurímac	0301 Abancay  	
+282	03 Apurímac	0301 Abancay	030101 Abancay  
+283	03 Apurímac	0301 Abancay	030102 Chacoche  
+284	03 Apurímac	0301 Abancay	030103 Circa  
+285	03 Apurímac	0301 Abancay	030104 Curahuasi  
+286	03 Apurímac	0301 Abancay	030105 Huanipaca  
+287	03 Apurímac	0301 Abancay	030106 Lambrama  
+288	03 Apurímac	0301 Abancay	030107 Pichirhua  
+289	03 Apurímac	0301 Abancay	030108 San Pedro de Cachora  
+290	03 Apurímac	0301 Abancay	030109 Tamburco  
+291	03 Apurímac	0302 Andahuaylas  	
+292	03 Apurímac	0302 Andahuaylas	030201 Andahuaylas  
+293	03 Apurímac	0302 Andahuaylas	030202 Andarapa  
+294	03 Apurímac	0302 Andahuaylas	030203 Chiara  
+295	03 Apurímac	0302 Andahuaylas	030204 Huancarama  
+296	03 Apurímac	0302 Andahuaylas	030205 Huancaray  
+297	03 Apurímac	0302 Andahuaylas	030206 Huayana  
+298	03 Apurímac	0302 Andahuaylas	030207 Kishuara  
+299	03 Apurímac	0302 Andahuaylas	030208 Pacobamba  
+300	03 Apurímac	0302 Andahuaylas	030209 Pacucha  
+301	03 Apurímac	0302 Andahuaylas	030210 Pampachiri  
+302	03 Apurímac	0302 Andahuaylas	030211 Pomacocha  
+303	03 Apurímac	0302 Andahuaylas	030212 San Antonio de Cachi  
+304	03 Apurímac	0302 Andahuaylas	030213 San Jerónimo  
+305	03 Apurímac	0302 Andahuaylas	030214 San Miguel de Chaccrampa  
+306	03 Apurímac	0302 Andahuaylas	030215 Santa María de Chicmo  
+307	03 Apurímac	0302 Andahuaylas	030216 Talavera  
+308	03 Apurímac	0302 Andahuaylas	030217 Tumay Huaraca  
+309	03 Apurímac	0302 Andahuaylas	030218 Turpo  
+310	03 Apurímac	0302 Andahuaylas	030219 Kaquiabamba  
+311	03 Apurímac	0302 Andahuaylas	030220 José María Arguedas  
+312	03 Apurímac	0303 Antabamba  	
+313	03 Apurímac	0303 Antabamba	030301 Antabamba  
+314	03 Apurímac	0303 Antabamba	030302 El Oro  
+315	03 Apurímac	0303 Antabamba	030303 Huaquirca  
+316	03 Apurímac	0303 Antabamba	030304 Juan Espinoza Medrano  
+317	03 Apurímac	0303 Antabamba	030305 Oropesa  
+318	03 Apurímac	0303 Antabamba	030306 Pachaconas  
+319	03 Apurímac	0303 Antabamba	030307 Sabaino  
+320	03 Apurímac	0304 Aymaraes  	
+321	03 Apurímac	0304 Aymaraes	030401 Chalhuanca  
+322	03 Apurímac	0304 Aymaraes	030402 Capaya  
+323	03 Apurímac	0304 Aymaraes	030403 Caraybamba  
+324	03 Apurímac	0304 Aymaraes	030404 Chapimarca  
+325	03 Apurímac	0304 Aymaraes	030405 Colcabamba  
+326	03 Apurímac	0304 Aymaraes	030406 Cotaruse  
+327	03 Apurímac	0304 Aymaraes	030407 Ihuayllo  
+328	03 Apurímac	0304 Aymaraes	030408 Justo Apu Sahuaraura  
+329	03 Apurímac	0304 Aymaraes	030409 Lucre  
+330	03 Apurímac	0304 Aymaraes	030410 Pocohuanca  
+331	03 Apurímac	0304 Aymaraes	030411 San Juan de Chacña  
+332	03 Apurímac	0304 Aymaraes	030412 Sañayca  
+333	03 Apurímac	0304 Aymaraes	030413 Soraya  
+334	03 Apurímac	0304 Aymaraes	030414 Tapairihua  
+335	03 Apurímac	0304 Aymaraes	030415 Tintay  
+336	03 Apurímac	0304 Aymaraes	030416 Toraya  
+337	03 Apurímac	0304 Aymaraes	030417 Yanaca  
+338	03 Apurímac	0305 Cotabambas  	
+339	03 Apurímac	0305 Cotabambas	030501 Tambobamba  
+340	03 Apurímac	0305 Cotabambas	030502 Cotabambas  
+341	03 Apurímac	0305 Cotabambas	030503 Coyllurqui  
+342	03 Apurímac	0305 Cotabambas	030504 Haquira  
+343	03 Apurímac	0305 Cotabambas	030505 Mara  
+344	03 Apurímac	0305 Cotabambas	030506 Challhuahuacho  
+345	03 Apurímac	0306 Chincheros  	
+346	03 Apurímac	0306 Chincheros	030601 Chincheros  
+347	03 Apurímac	0306 Chincheros	030602 Anco_Huallo  
+348	03 Apurímac	0306 Chincheros	030603 Cocharcas  
+349	03 Apurímac	0306 Chincheros	030604 Huaccana  
+350	03 Apurímac	0306 Chincheros	030605 Ocobamba  
+351	03 Apurímac	0306 Chincheros	030606 Ongoy  
+352	03 Apurímac	0306 Chincheros	030607 Uranmarca  
+353	03 Apurímac	0306 Chincheros	030608 Ranracancha  
+354	03 Apurímac	0306 Chincheros	030609 Rocchacc  
+355	03 Apurímac	0306 Chincheros	030610 El Porvenir  
+356	03 Apurímac	0306 Chincheros	030611 Los Chankas  
+357	03 Apurímac	0307 Grau  	
+358	03 Apurímac	0307 Grau	030701 Chuquibambilla  
+359	03 Apurímac	0307 Grau	030702 Curpahuasi  
+360	03 Apurímac	0307 Grau	030703 Gamarra  
+361	03 Apurímac	0307 Grau	030704 Huayllati  
+362	03 Apurímac	0307 Grau	030705 Mamara  
+363	03 Apurímac	0307 Grau	030706 Micaela Bastidas  
+364	03 Apurímac	0307 Grau	030707 Pataypampa  
+365	03 Apurímac	0307 Grau	030708 Progreso  
+366	03 Apurímac	0307 Grau	030709 San Antonio  
+367	03 Apurímac	0307 Grau	030710 Santa Rosa  
+368	03 Apurímac	0307 Grau	030711 Turpay  
+369	03 Apurímac	0307 Grau	030712 Vilcabamba  
+370	03 Apurímac	0307 Grau	030713 Virundo  
+371	03 Apurímac	0307 Grau	030714 Curasco  
+372	04 Arequipa  		
+373	04 Arequipa	0401 Arequipa  	
+374	04 Arequipa	0401 Arequipa	040101 Arequipa  
+375	04 Arequipa	0401 Arequipa	040102 Alto Selva Alegre  
+376	04 Arequipa	0401 Arequipa	040103 Cayma  
+377	04 Arequipa	0401 Arequipa	040104 Cerro Colorado  
+378	04 Arequipa	0401 Arequipa	040105 Characato  
+379	04 Arequipa	0401 Arequipa	040106 Chiguata  
+380	04 Arequipa	0401 Arequipa	040107 Jacobo Hunter  
+381	04 Arequipa	0401 Arequipa	040108 La Joya  
+382	04 Arequipa	0401 Arequipa	040109 Mariano Melgar  
+383	04 Arequipa	0401 Arequipa	040110 Miraflores  
+384	04 Arequipa	0401 Arequipa	040111 Mollebaya  
+385	04 Arequipa	0401 Arequipa	040112 Paucarpata  
+386	04 Arequipa	0401 Arequipa	040113 Pocsi  
+387	04 Arequipa	0401 Arequipa	040114 Polobaya  
+388	04 Arequipa	0401 Arequipa	040115 Quequeña  
+389	04 Arequipa	0401 Arequipa	040116 Sabandia  
+390	04 Arequipa	0401 Arequipa	040117 Sachaca  
+391	04 Arequipa	0401 Arequipa	040118 San Juan de Siguas  
+392	04 Arequipa	0401 Arequipa	040119 San Juan de Tarucani  
+393	04 Arequipa	0401 Arequipa	040120 Santa Isabel de Siguas  
+394	04 Arequipa	0401 Arequipa	040121 Santa Rita de Siguas  
+395	04 Arequipa	0401 Arequipa	040122 Socabaya  
+396	04 Arequipa	0401 Arequipa	040123 Tiabaya  
+397	04 Arequipa	0401 Arequipa	040124 Uchumayo  
+398	04 Arequipa	0401 Arequipa	040125 Vitor  
+399	04 Arequipa	0401 Arequipa	040126 Yanahuara  
+400	04 Arequipa	0401 Arequipa	040127 Yarabamba  
+401	04 Arequipa	0401 Arequipa	040128 Yura  
+402	04 Arequipa	0401 Arequipa	040129 José Luis Bustamante Y Rivero  
+403	04 Arequipa	0402 Camaná  	
+404	04 Arequipa	0402 Camaná	040201 Camaná  
+405	04 Arequipa	0402 Camaná	040202 José María Quimper  
+406	04 Arequipa	0402 Camaná	040203 Mariano Nicolás Valcárcel  
+407	04 Arequipa	0402 Camaná	040204 Mariscal Cáceres  
+408	04 Arequipa	0402 Camaná	040205 Nicolás de Pierola  
+409	04 Arequipa	0402 Camaná	040206 Ocoña  
+410	04 Arequipa	0402 Camaná	040207 Quilca  
+411	04 Arequipa	0402 Camaná	040208 Samuel Pastor  
+412	04 Arequipa	0403 Caravelí  	
+413	04 Arequipa	0403 Caravelí	040301 Caravelí  
+414	04 Arequipa	0403 Caravelí	040302 Acarí  
+415	04 Arequipa	0403 Caravelí	040303 Atico  
+416	04 Arequipa	0403 Caravelí	040304 Atiquipa  
+417	04 Arequipa	0403 Caravelí	040305 Bella Unión  
+418	04 Arequipa	0403 Caravelí	040306 Cahuacho  
+419	04 Arequipa	0403 Caravelí	040307 Chala  
+420	04 Arequipa	0403 Caravelí	040308 Chaparra  
+421	04 Arequipa	0403 Caravelí	040309 Huanuhuanu  
+422	04 Arequipa	0403 Caravelí	040310 Jaqui  
+423	04 Arequipa	0403 Caravelí	040311 Lomas  
+424	04 Arequipa	0403 Caravelí	040312 Quicacha  
+425	04 Arequipa	0403 Caravelí	040313 Yauca  
+426	04 Arequipa	0404 Castilla  	
+427	04 Arequipa	0404 Castilla	040401 Aplao  
+428	04 Arequipa	0404 Castilla	040402 Andagua  
+429	04 Arequipa	0404 Castilla	040403 Ayo  
+430	04 Arequipa	0404 Castilla	040404 Chachas  
+431	04 Arequipa	0404 Castilla	040405 Chilcaymarca  
+432	04 Arequipa	0404 Castilla	040406 Choco  
+433	04 Arequipa	0404 Castilla	040407 Huancarqui  
+434	04 Arequipa	0404 Castilla	040408 Machaguay  
+435	04 Arequipa	0404 Castilla	040409 Orcopampa  
+436	04 Arequipa	0404 Castilla	040410 Pampacolca  
+437	04 Arequipa	0404 Castilla	040411 Tipan  
+438	04 Arequipa	0404 Castilla	040412 Uñon  
+439	04 Arequipa	0404 Castilla	040413 Uraca  
+440	04 Arequipa	0404 Castilla	040414 Viraco  
+441	04 Arequipa	0405 Caylloma  	
+442	04 Arequipa	0405 Caylloma	040501 Chivay  
+443	04 Arequipa	0405 Caylloma	040502 Achoma  
+444	04 Arequipa	0405 Caylloma	040503 Cabanaconde  
+445	04 Arequipa	0405 Caylloma	040504 Callalli  
+446	04 Arequipa	0405 Caylloma	040505 Caylloma  
+447	04 Arequipa	0405 Caylloma	040506 Coporaque  
+448	04 Arequipa	0405 Caylloma	040507 Huambo  
+449	04 Arequipa	0405 Caylloma	040508 Huanca  
+450	04 Arequipa	0405 Caylloma	040509 Ichupampa  
+451	04 Arequipa	0405 Caylloma	040510 Lari  
+452	04 Arequipa	0405 Caylloma	040511 Lluta  
+453	04 Arequipa	0405 Caylloma	040512 Maca  
+454	04 Arequipa	0405 Caylloma	040513 Madrigal  
+455	04 Arequipa	0405 Caylloma	040514 San Antonio de Chuca  
+456	04 Arequipa	0405 Caylloma	040515 Sibayo  
+457	04 Arequipa	0405 Caylloma	040516 Tapay  
+458	04 Arequipa	0405 Caylloma	040517 Tisco  
+459	04 Arequipa	0405 Caylloma	040518 Tuti  
+460	04 Arequipa	0405 Caylloma	040519 Yanque  
+461	04 Arequipa	0405 Caylloma	040520 Majes  
+462	04 Arequipa	0406 Condesuyos  	
+463	04 Arequipa	0406 Condesuyos	040601 Chuquibamba  
+464	04 Arequipa	0406 Condesuyos	040602 Andaray  
+465	04 Arequipa	0406 Condesuyos	040603 Cayarani  
+466	04 Arequipa	0406 Condesuyos	040604 Chichas  
+467	04 Arequipa	0406 Condesuyos	040605 Iray  
+468	04 Arequipa	0406 Condesuyos	040606 Río Grande  
+469	04 Arequipa	0406 Condesuyos	040607 Salamanca  
+470	04 Arequipa	0406 Condesuyos	040608 Yanaquihua  
+471	04 Arequipa	0407 Islay  	
+472	04 Arequipa	0407 Islay	040701 Mollendo  
+473	04 Arequipa	0407 Islay	040702 Cocachacra  
+474	04 Arequipa	0407 Islay	040703 Dean Valdivia  
+475	04 Arequipa	0407 Islay	040704 Islay  
+476	04 Arequipa	0407 Islay	040705 Mejia  
+477	04 Arequipa	0407 Islay	040706 Punta de Bombón  
+478	04 Arequipa	0408 La Uniòn  	
+479	04 Arequipa	0408 La Uniòn	040801 Cotahuasi  
+480	04 Arequipa	0408 La Uniòn	040802 Alca  
+481	04 Arequipa	0408 La Uniòn	040803 Charcana  
+482	04 Arequipa	0408 La Uniòn	040804 Huaynacotas  
+483	04 Arequipa	0408 La Uniòn	040805 Pampamarca  
+484	04 Arequipa	0408 La Uniòn	040806 Puyca  
+485	04 Arequipa	0408 La Uniòn	040807 Quechualla  
+486	04 Arequipa	0408 La Uniòn	040808 Sayla  
+487	04 Arequipa	0408 La Uniòn	040809 Tauria  
+488	04 Arequipa	0408 La Uniòn	040810 Tomepampa  
+489	04 Arequipa	0408 La Uniòn	040811 Toro  
+490	05 Ayacucho  		
+491	05 Ayacucho	0501 Huamanga  	
+492	05 Ayacucho	0501 Huamanga	050101 Ayacucho  
+493	05 Ayacucho	0501 Huamanga	050102 Acocro  
+494	05 Ayacucho	0501 Huamanga	050103 Acos Vinchos  
+495	05 Ayacucho	0501 Huamanga	050104 Carmen Alto  
+496	05 Ayacucho	0501 Huamanga	050105 Chiara  
+497	05 Ayacucho	0501 Huamanga	050106 Ocros  
+498	05 Ayacucho	0501 Huamanga	050107 Pacaycasa  
+499	05 Ayacucho	0501 Huamanga	050108 Quinua  
+500	05 Ayacucho	0501 Huamanga	050109 San José de Ticllas  
+501	05 Ayacucho	0501 Huamanga	050110 San Juan Bautista  
+502	05 Ayacucho	0501 Huamanga	050111 Santiago de Pischa  
+503	05 Ayacucho	0501 Huamanga	050112 Socos  
+504	05 Ayacucho	0501 Huamanga	050113 Tambillo  
+505	05 Ayacucho	0501 Huamanga	050114 Vinchos  
+506	05 Ayacucho	0501 Huamanga	050115 Jesús Nazareno  
+507	05 Ayacucho	0501 Huamanga	050116 Andrés Avelino Cáceres Dorregaray 
+508	05 Ayacucho	0502 Cangallo  	
+509	05 Ayacucho	0502 Cangallo	050201 Cangallo  
+510	05 Ayacucho	0502 Cangallo	050202 Chuschi  
+511	05 Ayacucho	0502 Cangallo	050203 Los Morochucos  
+512	05 Ayacucho	0502 Cangallo	050204 María Parado de Bellido  
+513	05 Ayacucho	0502 Cangallo	050205 Paras  
+514	05 Ayacucho	0502 Cangallo	050206 Totos  
+515	05 Ayacucho	0503 Huanca Sancos  	
+516	05 Ayacucho	0503 Huanca Sancos	050301 Sancos  
+517	05 Ayacucho	0503 Huanca Sancos	050302 Carapo  
+518	05 Ayacucho	0503 Huanca Sancos	050303 Sacsamarca  
+519	05 Ayacucho	0503 Huanca Sancos	050304 Santiago de Lucanamarca  
+520	05 Ayacucho	0504 Huanta  	
+521	05 Ayacucho	0504 Huanta	050401 Huanta  
+522	05 Ayacucho	0504 Huanta	050402 Ayahuanco  
+523	05 Ayacucho	0504 Huanta	050403 Huamanguilla  
+524	05 Ayacucho	0504 Huanta	050404 Iguain  
+525	05 Ayacucho	0504 Huanta	050405 Luricocha  
+526	05 Ayacucho	0504 Huanta	050406 Santillana  
+527	05 Ayacucho	0504 Huanta	050407 Sivia  
+528	05 Ayacucho	0504 Huanta	050408 Llochegua  
+529	05 Ayacucho	0504 Huanta	050409 Canayre  
+530	05 Ayacucho	0504 Huanta	050410 Uchuraccay  
+531	05 Ayacucho	0504 Huanta	050411 Pucacolpa  
+532	05 Ayacucho	0504 Huanta	050412 Chaca  
+533	05 Ayacucho	0505 La Mar  	
+534	05 Ayacucho	0505 La Mar	050501 San Miguel  
+535	05 Ayacucho	0505 La Mar	050502 Anco  
+536	05 Ayacucho	0505 La Mar	050503 Ayna  
+537	05 Ayacucho	0505 La Mar	050504 Chilcas  
+538	05 Ayacucho	0505 La Mar	050505 Chungui  
+539	05 Ayacucho	0505 La Mar	050506 Luis Carranza  
+540	05 Ayacucho	0505 La Mar	050507 Santa Rosa  
+541	05 Ayacucho	0505 La Mar	050508 Tambo  
+542	05 Ayacucho	0505 La Mar	050509 Samugari  
+543	05 Ayacucho	0505 La Mar	050510 Anchihuay  
+544	05 Ayacucho	0505 La Mar	050511 Oronccoy  
+545	05 Ayacucho	0506 Lucanas  	
+546	05 Ayacucho	0506 Lucanas	050601 Puquio  
+547	05 Ayacucho	0506 Lucanas	050602 Aucara  
+548	05 Ayacucho	0506 Lucanas	050603 Cabana  
+549	05 Ayacucho	0506 Lucanas	050604 Carmen Salcedo  
+550	05 Ayacucho	0506 Lucanas	050605 Chaviña  
+551	05 Ayacucho	0506 Lucanas	050606 Chipao  
+552	05 Ayacucho	0506 Lucanas	050607 Huac-Huas  
+553	05 Ayacucho	0506 Lucanas	050608 Laramate  
+554	05 Ayacucho	0506 Lucanas	050609 Leoncio Prado  
+555	05 Ayacucho	0506 Lucanas	050610 Llauta  
+556	05 Ayacucho	0506 Lucanas	050611 Lucanas  
+557	05 Ayacucho	0506 Lucanas	050612 Ocaña  
+558	05 Ayacucho	0506 Lucanas	050613 Otoca  
+559	05 Ayacucho	0506 Lucanas	050614 Saisa  
+560	05 Ayacucho	0506 Lucanas	050615 San Cristóbal  
+561	05 Ayacucho	0506 Lucanas	050616 San Juan  
+562	05 Ayacucho	0506 Lucanas	050617 San Pedro  
+563	05 Ayacucho	0506 Lucanas	050618 San Pedro de Palco  
+564	05 Ayacucho	0506 Lucanas	050619 Sancos  
+565	05 Ayacucho	0506 Lucanas	050620 Santa Ana de Huaycahuacho  
+566	05 Ayacucho	0506 Lucanas	050621 Santa Lucia  
+567	05 Ayacucho	0507 Parinacochas  	
+568	05 Ayacucho	0507 Parinacochas	050701 Coracora  
+569	05 Ayacucho	0507 Parinacochas	050702 Chumpi  
+570	05 Ayacucho	0507 Parinacochas	050703 Coronel Castañeda  
+571	05 Ayacucho	0507 Parinacochas	050704 Pacapausa  
+572	05 Ayacucho	0507 Parinacochas	050705 Pullo  
+573	05 Ayacucho	0507 Parinacochas	050706 Puyusca  
+574	05 Ayacucho	0507 Parinacochas	050707 San Francisco de Ravacayco  
+575	05 Ayacucho	0507 Parinacochas	050708 Upahuacho  
+576	05 Ayacucho	0508 Pàucar del Sara Sara  	
+577	05 Ayacucho	0508 Pàucar del Sara Sara	050801 Pausa  
+578	05 Ayacucho	0508 Pàucar del Sara Sara	050802 Colta  
+579	05 Ayacucho	0508 Pàucar del Sara Sara	050803 Corculla  
+580	05 Ayacucho	0508 Pàucar del Sara Sara	050804 Lampa  
+581	05 Ayacucho	0508 Pàucar del Sara Sara	050805 Marcabamba  
+582	05 Ayacucho	0508 Pàucar del Sara Sara	050806 Oyolo  
+583	05 Ayacucho	0508 Pàucar del Sara Sara	050807 Pararca  
+584	05 Ayacucho	0508 Pàucar del Sara Sara	050808 San Javier de Alpabamba  
+585	05 Ayacucho	0508 Pàucar del Sara Sara	050809 San José de Ushua  
+586	05 Ayacucho	0508 Pàucar del Sara Sara	050810 Sara Sara  
+587	05 Ayacucho	0509 Sucre  	
+588	05 Ayacucho	0509 Sucre	050901 Querobamba  
+589	05 Ayacucho	0509 Sucre	050902 Belén  
+590	05 Ayacucho	0509 Sucre	050903 Chalcos  
+591	05 Ayacucho	0509 Sucre	050904 Chilcayoc  
+592	05 Ayacucho	0509 Sucre	050905 Huacaña  
+593	05 Ayacucho	0509 Sucre	050906 Morcolla  
+594	05 Ayacucho	0509 Sucre	050907 Paico  
+595	05 Ayacucho	0509 Sucre	050908 San Pedro de Larcay  
+596	05 Ayacucho	0509 Sucre	050909 San Salvador de Quije  
+597	05 Ayacucho	0509 Sucre	050910 Santiago de Paucaray  
+598	05 Ayacucho	0509 Sucre	050911 Soras  
+599	05 Ayacucho	0510 Víctor Fajardo  	
+600	05 Ayacucho	0510 Víctor Fajardo	051001 Huancapi  
+601	05 Ayacucho	0510 Víctor Fajardo	051002 Alcamenca  
+602	05 Ayacucho	0510 Víctor Fajardo	051003 Apongo  
+603	05 Ayacucho	0510 Víctor Fajardo	051004 Asquipata  
+604	05 Ayacucho	0510 Víctor Fajardo	051005 Canaria  
+605	05 Ayacucho	0510 Víctor Fajardo	051006 Cayara  
+606	05 Ayacucho	0510 Víctor Fajardo	051007 Colca  
+607	05 Ayacucho	0510 Víctor Fajardo	051008 Huamanquiquia  
+608	05 Ayacucho	0510 Víctor Fajardo	051009 Huancaraylla  
+609	05 Ayacucho	0510 Víctor Fajardo	051010 Hualla  
+610	05 Ayacucho	0510 Víctor Fajardo	051011 Sarhua  
+611	05 Ayacucho	0510 Víctor Fajardo	051012 Vilcanchos  
+612	05 Ayacucho	0511 Vilcas Huamán  	
+613	05 Ayacucho	0511 Vilcas Huamán	051101 Vilcas Huaman  
+614	05 Ayacucho	0511 Vilcas Huamán	051102 Accomarca  
+615	05 Ayacucho	0511 Vilcas Huamán	051103 Carhuanca  
+616	05 Ayacucho	0511 Vilcas Huamán	051104 Concepción  
+617	05 Ayacucho	0511 Vilcas Huamán	051105 Huambalpa  
+618	05 Ayacucho	0511 Vilcas Huamán	051106 Independencia  
+619	05 Ayacucho	0511 Vilcas Huamán	051107 Saurama  
+620	05 Ayacucho	0511 Vilcas Huamán	051108 Vischongo  
+621	06 Cajamarca  		
+622	06 Cajamarca	0601 Cajamarca  	
+623	06 Cajamarca	0601 Cajamarca	060101 Cajamarca  
+624	06 Cajamarca	0601 Cajamarca	060102 Asunción  
+625	06 Cajamarca	0601 Cajamarca	060103 Chetilla  
+626	06 Cajamarca	0601 Cajamarca	060104 Cospan  
+627	06 Cajamarca	0601 Cajamarca	060105 Encañada  
+628	06 Cajamarca	0601 Cajamarca	060106 Jesús  
+629	06 Cajamarca	0601 Cajamarca	060107 Llacanora  
+630	06 Cajamarca	0601 Cajamarca	060108 Los Baños del Inca  
+631	06 Cajamarca	0601 Cajamarca	060109 Magdalena  
+632	06 Cajamarca	0601 Cajamarca	060110 Matara  
+633	06 Cajamarca	0601 Cajamarca	060111 Namora  
+634	06 Cajamarca	0601 Cajamarca	060112 San Juan  
+635	06 Cajamarca	0602 Cajabamba  	
+636	06 Cajamarca	0602 Cajabamba	060201 Cajabamba  
+637	06 Cajamarca	0602 Cajabamba	060202 Cachachi  
+638	06 Cajamarca	0602 Cajabamba	060203 Condebamba  
+639	06 Cajamarca	0602 Cajabamba	060204 Sitacocha  
+640	06 Cajamarca	0603 Celendín  	
+641	06 Cajamarca	0603 Celendín	060301 Celendín  
+642	06 Cajamarca	0603 Celendín	060302 Chumuch  
+643	06 Cajamarca	0603 Celendín	060303 Cortegana  
+644	06 Cajamarca	0603 Celendín	060304 Huasmin  
+645	06 Cajamarca	0603 Celendín	060305 Jorge Chávez  
+646	06 Cajamarca	0603 Celendín	060306 José Gálvez  
+647	06 Cajamarca	0603 Celendín	060307 Miguel Iglesias  
+648	06 Cajamarca	0603 Celendín	060308 Oxamarca  
+649	06 Cajamarca	0603 Celendín	060309 Sorochuco  
+650	06 Cajamarca	0603 Celendín	060310 Sucre  
+651	06 Cajamarca	0603 Celendín	060311 Utco  
+652	06 Cajamarca	0603 Celendín	060312 La Libertad de Pallan  
+653	06 Cajamarca	0604 Chota  	
+654	06 Cajamarca	0604 Chota	060401 Chota  
+655	06 Cajamarca	0604 Chota	060402 Anguia  
+656	06 Cajamarca	0604 Chota	060403 Chadin  
+657	06 Cajamarca	0604 Chota	060404 Chiguirip  
+658	06 Cajamarca	0604 Chota	060405 Chimban  
+659	06 Cajamarca	0604 Chota	060406 Choropampa  
+660	06 Cajamarca	0604 Chota	060407 Cochabamba  
+661	06 Cajamarca	0604 Chota	060408 Conchan  
+662	06 Cajamarca	0604 Chota	060409 Huambos  
+663	06 Cajamarca	0604 Chota	060410 Lajas  
+664	06 Cajamarca	0604 Chota	060411 Llama  
+665	06 Cajamarca	0604 Chota	060412 Miracosta  
+666	06 Cajamarca	0604 Chota	060413 Paccha  
+667	06 Cajamarca	0604 Chota	060414 Pion  
+668	06 Cajamarca	0604 Chota	060415 Querocoto  
+669	06 Cajamarca	0604 Chota	060416 San Juan de Licupis  
+670	06 Cajamarca	0604 Chota	060417 Tacabamba  
+671	06 Cajamarca	0604 Chota	060418 Tocmoche  
+672	06 Cajamarca	0604 Chota	060419 Chalamarca  
+673	06 Cajamarca	0605 Contumazá  	
+674	06 Cajamarca	0605 Contumazá	060501 Contumaza  
+675	06 Cajamarca	0605 Contumazá	060502 Chilete  
+676	06 Cajamarca	0605 Contumazá	060503 Cupisnique  
+677	06 Cajamarca	0605 Contumazá	060504 Guzmango  
+678	06 Cajamarca	0605 Contumazá	060505 San Benito  
+679	06 Cajamarca	0605 Contumazá	060506 Santa Cruz de Toledo  
+680	06 Cajamarca	0605 Contumazá	060507 Tantarica  
+681	06 Cajamarca	0605 Contumazá	060508 Yonan  
+682	06 Cajamarca	0606 Cutervo  	
+683	06 Cajamarca	0606 Cutervo	060601 Cutervo  
+684	06 Cajamarca	0606 Cutervo	060602 Callayuc  
+685	06 Cajamarca	0606 Cutervo	060603 Choros  
+686	06 Cajamarca	0606 Cutervo	060604 Cujillo  
+687	06 Cajamarca	0606 Cutervo	060605 La Ramada  
+688	06 Cajamarca	0606 Cutervo	060606 Pimpingos  
+689	06 Cajamarca	0606 Cutervo	060607 Querocotillo  
+690	06 Cajamarca	0606 Cutervo	060608 San Andrés de Cutervo  
+691	06 Cajamarca	0606 Cutervo	060609 San Juan de Cutervo  
+692	06 Cajamarca	0606 Cutervo	060610 San Luis de Lucma  
+693	06 Cajamarca	0606 Cutervo	060611 Santa Cruz  
+694	06 Cajamarca	0606 Cutervo	060612 Santo Domingo de la Capilla  
+695	06 Cajamarca	0606 Cutervo	060613 Santo Tomas  
+696	06 Cajamarca	0606 Cutervo	060614 Socota  
+697	06 Cajamarca	0606 Cutervo	060615 Toribio Casanova  
+698	06 Cajamarca	0607 Hualgayoc  	
+699	06 Cajamarca	0607 Hualgayoc	060701 Bambamarca  
+700	06 Cajamarca	0607 Hualgayoc	060702 Chugur  
+701	06 Cajamarca	0607 Hualgayoc	060703 Hualgayoc  
+702	06 Cajamarca	0608 Jaén  	
+703	06 Cajamarca	0608 Jaén	060801 Jaén  
+704	06 Cajamarca	0608 Jaén	060802 Bellavista  
+705	06 Cajamarca	0608 Jaén	060803 Chontali  
+706	06 Cajamarca	0608 Jaén	060804 Colasay  
+707	06 Cajamarca	0608 Jaén	060805 Huabal  
+708	06 Cajamarca	0608 Jaén	060806 Las Pirias  
+709	06 Cajamarca	0608 Jaén	060807 Pomahuaca  
+710	06 Cajamarca	0608 Jaén	060808 Pucara  
+711	06 Cajamarca	0608 Jaén	060809 Sallique  
+712	06 Cajamarca	0608 Jaén	060810 San Felipe  
+713	06 Cajamarca	0608 Jaén	060811 San José del Alto  
+714	06 Cajamarca	0608 Jaén	060812 Santa Rosa  
+715	06 Cajamarca	0609 San Ignacio  	
+716	06 Cajamarca	0609 San Ignacio	060901 San Ignacio  
+717	06 Cajamarca	0609 San Ignacio	060902 Chirinos  
+718	06 Cajamarca	0609 San Ignacio	060903 Huarango  
+719	06 Cajamarca	0609 San Ignacio	060904 La Coipa  
+720	06 Cajamarca	0609 San Ignacio	060905 Namballe  
+721	06 Cajamarca	0609 San Ignacio	060906 San José de Lourdes  
+722	06 Cajamarca	0609 San Ignacio	060907 Tabaconas  
+723	06 Cajamarca	0610 San Marcos  	
+724	06 Cajamarca	0610 San Marcos	061001 Pedro Gálvez  
+725	06 Cajamarca	0610 San Marcos	061002 Chancay  
+726	06 Cajamarca	0610 San Marcos	061003 Eduardo Villanueva  
+727	06 Cajamarca	0610 San Marcos	061004 Gregorio Pita  
+728	06 Cajamarca	0610 San Marcos	061005 Ichocan  
+729	06 Cajamarca	0610 San Marcos	061006 José Manuel Quiroz  
+730	06 Cajamarca	0610 San Marcos	061007 José Sabogal  
+731	06 Cajamarca	0611 San Miguel  	
+732	06 Cajamarca	0611 San Miguel	061101 San Miguel  
+733	06 Cajamarca	0611 San Miguel	061102 Bolívar  
+734	06 Cajamarca	0611 San Miguel	061103 Calquis  
+735	06 Cajamarca	0611 San Miguel	061104 Catilluc  
+736	06 Cajamarca	0611 San Miguel	061105 El Prado  
+737	06 Cajamarca	0611 San Miguel	061106 La Florida  
+738	06 Cajamarca	0611 San Miguel	061107 Llapa  
+739	06 Cajamarca	0611 San Miguel	061108 Nanchoc  
+740	06 Cajamarca	0611 San Miguel	061109 Niepos  
+741	06 Cajamarca	0611 San Miguel	061110 San Gregorio  
+742	06 Cajamarca	0611 San Miguel	061111 San Silvestre de Cochan  
+743	06 Cajamarca	0611 San Miguel	061112 Tongod  
+744	06 Cajamarca	0611 San Miguel	061113 Unión Agua Blanca  
+745	06 Cajamarca	0612 San Pablo  	
+746	06 Cajamarca	0612 San Pablo	061201 San Pablo  
+747	06 Cajamarca	0612 San Pablo	061202 San Bernardino  
+748	06 Cajamarca	0612 San Pablo	061203 San Luis  
+749	06 Cajamarca	0612 San Pablo	061204 Tumbaden  
+750	06 Cajamarca	0613 Santa Cruz  	
+751	06 Cajamarca	0613 Santa Cruz	061301 Santa Cruz  
+752	06 Cajamarca	0613 Santa Cruz	061302 Andabamba  
+753	06 Cajamarca	0613 Santa Cruz	061303 Catache  
+754	06 Cajamarca	0613 Santa Cruz	061304 Chancaybaños  
+755	06 Cajamarca	0613 Santa Cruz	061305 La Esperanza  
+756	06 Cajamarca	0613 Santa Cruz	061306 Ninabamba  
+757	06 Cajamarca	0613 Santa Cruz	061307 Pulan  
+758	06 Cajamarca	0613 Santa Cruz	061308 Saucepampa  
+759	06 Cajamarca	0613 Santa Cruz	061309 Sexi  
+760	06 Cajamarca	0613 Santa Cruz	061310 Uticyacu  
+761	06 Cajamarca	0613 Santa Cruz	061311 Yauyucan  
+762	07 Callao  		
+763	07 Callao	0701 Prov. Const. del Callao  	
+764	07 Callao	0701 Prov. Const. del Callao	070101 Callao  
+765	07 Callao	0701 Prov. Const. del Callao	070102 Bellavista  
+766	07 Callao	0701 Prov. Const. del Callao	070103 Carmen de la Legua Reynoso  
+767	07 Callao	0701 Prov. Const. del Callao	070104 La Perla  
+768	07 Callao	0701 Prov. Const. del Callao	070105 La Punta  
+769	07 Callao	0701 Prov. Const. del Callao	070106 Ventanilla  
+770	07 Callao	0701 Prov. Const. del Callao	070107 Mi Perú  
+771	08 Cusco  		
+772	08 Cusco	0801 Cusco  	
+773	08 Cusco	0801 Cusco	080101 Cusco  
+774	08 Cusco	0801 Cusco	080102 Ccorca  
+775	08 Cusco	0801 Cusco	080103 Poroy  
+776	08 Cusco	0801 Cusco	080104 San Jerónimo  
+777	08 Cusco	0801 Cusco	080105 San Sebastian  
+778	08 Cusco	0801 Cusco	080106 Santiago  
+779	08 Cusco	0801 Cusco	080107 Saylla  
+780	08 Cusco	0801 Cusco	080108 Wanchaq  
+781	08 Cusco	0802 Acomayo  	
+782	08 Cusco	0802 Acomayo	080201 Acomayo  
+783	08 Cusco	0802 Acomayo	080202 Acopia  
+784	08 Cusco	0802 Acomayo	080203 Acos  
+785	08 Cusco	0802 Acomayo	080204 Mosoc Llacta  
+786	08 Cusco	0802 Acomayo	080205 Pomacanchi  
+787	08 Cusco	0802 Acomayo	080206 Rondocan  
+788	08 Cusco	0802 Acomayo	080207 Sangarara  
+789	08 Cusco	0803 Anta  	
+790	08 Cusco	0803 Anta	080301 Anta  
+791	08 Cusco	0803 Anta	080302 Ancahuasi  
+792	08 Cusco	0803 Anta	080303 Cachimayo  
+793	08 Cusco	0803 Anta	080304 Chinchaypujio  
+794	08 Cusco	0803 Anta	080305 Huarocondo  
+795	08 Cusco	0803 Anta	080306 Limatambo  
+796	08 Cusco	0803 Anta	080307 Mollepata  
+797	08 Cusco	0803 Anta	080308 Pucyura  
+798	08 Cusco	0803 Anta	080309 Zurite  
+799	08 Cusco	0804 Calca  	
+800	08 Cusco	0804 Calca	080401 Calca  
+801	08 Cusco	0804 Calca	080402 Coya  
+802	08 Cusco	0804 Calca	080403 Lamay  
+803	08 Cusco	0804 Calca	080404 Lares  
+804	08 Cusco	0804 Calca	080405 Pisac  
+805	08 Cusco	0804 Calca	080406 San Salvador  
+806	08 Cusco	0804 Calca	080407 Taray  
+807	08 Cusco	0804 Calca	080408 Yanatile  
+808	08 Cusco	0805 Canas  	
+809	08 Cusco	0805 Canas	080501 Yanaoca  
+810	08 Cusco	0805 Canas	080502 Checca  
+811	08 Cusco	0805 Canas	080503 Kunturkanki  
+812	08 Cusco	0805 Canas	080504 Langui  
+813	08 Cusco	0805 Canas	080505 Layo  
+814	08 Cusco	0805 Canas	080506 Pampamarca  
+815	08 Cusco	0805 Canas	080507 Quehue  
+816	08 Cusco	0805 Canas	080508 Tupac Amaru  
+817	08 Cusco	0806 Canchis  	
+818	08 Cusco	0806 Canchis	080601 Sicuani  
+819	08 Cusco	0806 Canchis	080602 Checacupe  
+820	08 Cusco	0806 Canchis	080603 Combapata  
+821	08 Cusco	0806 Canchis	080604 Marangani  
+822	08 Cusco	0806 Canchis	080605 Pitumarca  
+823	08 Cusco	0806 Canchis	080606 San Pablo  
+824	08 Cusco	0806 Canchis	080607 San Pedro  
+825	08 Cusco	0806 Canchis	080608 Tinta  
+826	08 Cusco	0807 Chumbivilcas  	
+827	08 Cusco	0807 Chumbivilcas	080701 Santo Tomas  
+828	08 Cusco	0807 Chumbivilcas	080702 Capacmarca  
+829	08 Cusco	0807 Chumbivilcas	080703 Chamaca  
+830	08 Cusco	0807 Chumbivilcas	080704 Colquemarca  
+831	08 Cusco	0807 Chumbivilcas	080705 Livitaca  
+832	08 Cusco	0807 Chumbivilcas	080706 Llusco  
+833	08 Cusco	0807 Chumbivilcas	080707 Quiñota  
+834	08 Cusco	0807 Chumbivilcas	080708 Velille  
+835	08 Cusco	0808 Espinar  	
+836	08 Cusco	0808 Espinar	080801 Espinar  
+837	08 Cusco	0808 Espinar	080802 Condoroma  
+838	08 Cusco	0808 Espinar	080803 Coporaque  
+839	08 Cusco	0808 Espinar	080804 Ocoruro  
+840	08 Cusco	0808 Espinar	080805 Pallpata  
+841	08 Cusco	0808 Espinar	080806 Pichigua  
+842	08 Cusco	0808 Espinar	080807 Suyckutambo  
+843	08 Cusco	0808 Espinar	080808 Alto Pichigua  
+844	08 Cusco	0809 La Convención  	
+845	08 Cusco	0809 La Convención	080901 Santa Ana  
+846	08 Cusco	0809 La Convención	080902 Echarate  
+847	08 Cusco	0809 La Convención	080903 Huayopata  
+848	08 Cusco	0809 La Convención	080904 Maranura  
+849	08 Cusco	0809 La Convención	080905 Ocobamba  
+850	08 Cusco	0809 La Convención	080906 Quellouno  
+851	08 Cusco	0809 La Convención	080907 Kimbiri  
+852	08 Cusco	0809 La Convención	080908 Santa Teresa  
+853	08 Cusco	0809 La Convención	080909 Vilcabamba  
+854	08 Cusco	0809 La Convención	080910 Pichari  
+855	08 Cusco	0809 La Convención	080911 Inkawasi  
+856	08 Cusco	0809 La Convención	080912 Villa Virgen  
+857	08 Cusco	0809 La Convención	080913 Villa Kintiarina  
+858	08 Cusco	0809 La Convención	080914 Megantoni  
+859	08 Cusco	0810 Paruro  	
+860	08 Cusco	0810 Paruro	081001 Paruro  
+861	08 Cusco	0810 Paruro	081002 Accha  
+862	08 Cusco	0810 Paruro	081003 Ccapi  
+863	08 Cusco	0810 Paruro	081004 Colcha  
+864	08 Cusco	0810 Paruro	081005 Huanoquite  
+865	08 Cusco	0810 Paruro	081006 Omacha  
+866	08 Cusco	0810 Paruro	081007 Paccaritambo  
+867	08 Cusco	0810 Paruro	081008 Pillpinto  
+868	08 Cusco	0810 Paruro	081009 Yaurisque  
+869	08 Cusco	0811 Paucartambo  	
+870	08 Cusco	0811 Paucartambo	081101 Paucartambo  
+871	08 Cusco	0811 Paucartambo	081102 Caicay  
+872	08 Cusco	0811 Paucartambo	081103 Challabamba  
+873	08 Cusco	0811 Paucartambo	081104 Colquepata  
+874	08 Cusco	0811 Paucartambo	081105 Huancarani  
+875	08 Cusco	0811 Paucartambo	081106 Kosñipata  
+876	08 Cusco	0812 Quispicanchi  	
+877	08 Cusco	0812 Quispicanchi	081201 Urcos  
+878	08 Cusco	0812 Quispicanchi	081202 Andahuaylillas  
+879	08 Cusco	0812 Quispicanchi	081203 Camanti  
+880	08 Cusco	0812 Quispicanchi	081204 Ccarhuayo  
+881	08 Cusco	0812 Quispicanchi	081205 Ccatca  
+882	08 Cusco	0812 Quispicanchi	081206 Cusipata  
+883	08 Cusco	0812 Quispicanchi	081207 Huaro  
+884	08 Cusco	0812 Quispicanchi	081208 Lucre  
+885	08 Cusco	0812 Quispicanchi	081209 Marcapata  
+886	08 Cusco	0812 Quispicanchi	081210 Ocongate  
+887	08 Cusco	0812 Quispicanchi	081211 Oropesa  
+888	08 Cusco	0812 Quispicanchi	081212 Quiquijana  
+889	08 Cusco	0813 Urubamba  	
+890	08 Cusco	0813 Urubamba	081301 Urubamba  
+891	08 Cusco	0813 Urubamba	081302 Chinchero  
+892	08 Cusco	0813 Urubamba	081303 Huayllabamba  
+893	08 Cusco	0813 Urubamba	081304 Machupicchu  
+894	08 Cusco	0813 Urubamba	081305 Maras  
+895	08 Cusco	0813 Urubamba	081306 Ollantaytambo  
+896	08 Cusco	0813 Urubamba	081307 Yucay  
+897	09 Huancavelica  		
+898	09 Huancavelica	0901 Huancavelica  	
+899	09 Huancavelica	0901 Huancavelica	090101 Huancavelica  
+900	09 Huancavelica	0901 Huancavelica	090102 Acobambilla  
+901	09 Huancavelica	0901 Huancavelica	090103 Acoria  
+902	09 Huancavelica	0901 Huancavelica	090104 Conayca  
+903	09 Huancavelica	0901 Huancavelica	090105 Cuenca  
+904	09 Huancavelica	0901 Huancavelica	090106 Huachocolpa  
+905	09 Huancavelica	0901 Huancavelica	090107 Huayllahuara  
+906	09 Huancavelica	0901 Huancavelica	090108 Izcuchaca  
+907	09 Huancavelica	0901 Huancavelica	090109 Laria  
+908	09 Huancavelica	0901 Huancavelica	090110 Manta  
+909	09 Huancavelica	0901 Huancavelica	090111 Mariscal Cáceres  
+910	09 Huancavelica	0901 Huancavelica	090112 Moya  
+911	09 Huancavelica	0901 Huancavelica	090113 Nuevo Occoro  
+912	09 Huancavelica	0901 Huancavelica	090114 Palca  
+913	09 Huancavelica	0901 Huancavelica	090115 Pilchaca  
+914	09 Huancavelica	0901 Huancavelica	090116 Vilca  
+915	09 Huancavelica	0901 Huancavelica	090117 Yauli  
+916	09 Huancavelica	0901 Huancavelica	090118 Ascensión  
+917	09 Huancavelica	0901 Huancavelica	090119 Huando  
+918	09 Huancavelica	0902 Acobamba  	
+919	09 Huancavelica	0902 Acobamba	090201 Acobamba  
+920	09 Huancavelica	0902 Acobamba	090202 Andabamba  
+921	09 Huancavelica	0902 Acobamba	090203 Anta  
+922	09 Huancavelica	0902 Acobamba	090204 Caja  
+923	09 Huancavelica	0902 Acobamba	090205 Marcas  
+924	09 Huancavelica	0902 Acobamba	090206 Paucara  
+925	09 Huancavelica	0902 Acobamba	090207 Pomacocha  
+926	09 Huancavelica	0902 Acobamba	090208 Rosario  
+927	09 Huancavelica	0903 Angaraes  	
+928	09 Huancavelica	0903 Angaraes	090301 Lircay  
+929	09 Huancavelica	0903 Angaraes	090302 Anchonga  
+930	09 Huancavelica	0903 Angaraes	090303 Callanmarca  
+931	09 Huancavelica	0903 Angaraes	090304 Ccochaccasa  
+932	09 Huancavelica	0903 Angaraes	090305 Chincho  
+933	09 Huancavelica	0903 Angaraes	090306 Congalla  
+934	09 Huancavelica	0903 Angaraes	090307 Huanca-Huanca  
+935	09 Huancavelica	0903 Angaraes	090308 Huayllay Grande  
+936	09 Huancavelica	0903 Angaraes	090309 Julcamarca  
+937	09 Huancavelica	0903 Angaraes	090310 San Antonio de Antaparco  
+938	09 Huancavelica	0903 Angaraes	090311 Santo Tomas de Pata  
+939	09 Huancavelica	0903 Angaraes	090312 Secclla  
+940	09 Huancavelica	0904 Castrovirreyna  	
+941	09 Huancavelica	0904 Castrovirreyna	090401 Castrovirreyna  
+942	09 Huancavelica	0904 Castrovirreyna	090402 Arma  
+943	09 Huancavelica	0904 Castrovirreyna	090403 Aurahua  
+944	09 Huancavelica	0904 Castrovirreyna	090404 Capillas  
+945	09 Huancavelica	0904 Castrovirreyna	090405 Chupamarca  
+946	09 Huancavelica	0904 Castrovirreyna	090406 Cocas  
+947	09 Huancavelica	0904 Castrovirreyna	090407 Huachos  
+948	09 Huancavelica	0904 Castrovirreyna	090408 Huamatambo  
+949	09 Huancavelica	0904 Castrovirreyna	090409 Mollepampa  
+950	09 Huancavelica	0904 Castrovirreyna	090410 San Juan  
+951	09 Huancavelica	0904 Castrovirreyna	090411 Santa Ana  
+952	09 Huancavelica	0904 Castrovirreyna	090412 Tantara  
+953	09 Huancavelica	0904 Castrovirreyna	090413 Ticrapo  
+954	09 Huancavelica	0905 Churcampa  	
+955	09 Huancavelica	0905 Churcampa	090501 Churcampa  
+956	09 Huancavelica	0905 Churcampa	090502 Anco  
+957	09 Huancavelica	0905 Churcampa	090503 Chinchihuasi  
+958	09 Huancavelica	0905 Churcampa	090504 El Carmen  
+959	09 Huancavelica	0905 Churcampa	090505 La Merced  
+960	09 Huancavelica	0905 Churcampa	090506 Locroja  
+961	09 Huancavelica	0905 Churcampa	090507 Paucarbamba  
+962	09 Huancavelica	0905 Churcampa	090508 San Miguel de Mayocc  
+963	09 Huancavelica	0905 Churcampa	090509 San Pedro de Coris  
+964	09 Huancavelica	0905 Churcampa	090510 Pachamarca  
+965	09 Huancavelica	0905 Churcampa	090511 Cosme  
+966	09 Huancavelica	0906 Huaytará  	
+967	09 Huancavelica	0906 Huaytará	090601 Huaytara  
+968	09 Huancavelica	0906 Huaytará	090602 Ayavi  
+969	09 Huancavelica	0906 Huaytará	090603 Córdova  
+970	09 Huancavelica	0906 Huaytará	090604 Huayacundo Arma  
+971	09 Huancavelica	0906 Huaytará	090605 Laramarca  
+972	09 Huancavelica	0906 Huaytará	090606 Ocoyo  
+973	09 Huancavelica	0906 Huaytará	090607 Pilpichaca  
+974	09 Huancavelica	0906 Huaytará	090608 Querco  
+975	09 Huancavelica	0906 Huaytará	090609 Quito-Arma  
+976	09 Huancavelica	0906 Huaytará	090610 San Antonio de Cusicancha  
+977	09 Huancavelica	0906 Huaytará	090611 San Francisco de Sangayaico  
+978	09 Huancavelica	0906 Huaytará	090612 San Isidro  
+979	09 Huancavelica	0906 Huaytará	090613 Santiago de Chocorvos  
+980	09 Huancavelica	0906 Huaytará	090614 Santiago de Quirahuara  
+981	09 Huancavelica	0906 Huaytará	090615 Santo Domingo de Capillas  
+982	09 Huancavelica	0906 Huaytará	090616 Tambo  
+983	09 Huancavelica	0907 Tayacaja  	
+984	09 Huancavelica	0907 Tayacaja	090701 Pampas  
+985	09 Huancavelica	0907 Tayacaja	090702 Acostambo  
+986	09 Huancavelica	0907 Tayacaja	090703 Acraquia  
+987	09 Huancavelica	0907 Tayacaja	090704 Ahuaycha  
+988	09 Huancavelica	0907 Tayacaja	090705 Colcabamba  
+989	09 Huancavelica	0907 Tayacaja	090706 Daniel Hernández  
+990	09 Huancavelica	0907 Tayacaja	090707 Huachocolpa  
+991	09 Huancavelica	0907 Tayacaja	090709 Huaribamba  
+992	09 Huancavelica	0907 Tayacaja	090710 Ñahuimpuquio  
+993	09 Huancavelica	0907 Tayacaja	090711 Pazos  
+994	09 Huancavelica	0907 Tayacaja	090713 Quishuar  
+995	09 Huancavelica	0907 Tayacaja	090714 Salcabamba  
+996	09 Huancavelica	0907 Tayacaja	090715 Salcahuasi  
+997	09 Huancavelica	0907 Tayacaja	090716 San Marcos de Rocchac  
+998	09 Huancavelica	0907 Tayacaja	090717 Surcubamba  
+999	09 Huancavelica	0907 Tayacaja	090718 Tintay Puncu  
+1000	09 Huancavelica	0907 Tayacaja	090719 Quichuas  
+1001	09 Huancavelica	0907 Tayacaja	090720 Andaymarca  
+1002	09 Huancavelica	0907 Tayacaja	090721 Roble  
+1003	09 Huancavelica	0907 Tayacaja	090722 Pichos  
+1004	09 Huancavelica	0907 Tayacaja	090723 Santiago de Tucuma  
+1005	10 Huánuco  		
+1006	10 Huánuco	1001 Huánuco  	
+1007	10 Huánuco	1001 Huánuco	100101 Huanuco  
+1008	10 Huánuco	1001 Huánuco	100102 Amarilis  
+1009	10 Huánuco	1001 Huánuco	100103 Chinchao  
+1010	10 Huánuco	1001 Huánuco	100104 Churubamba  
+1011	10 Huánuco	1001 Huánuco	100105 Margos  
+1012	10 Huánuco	1001 Huánuco	100106 Quisqui (Kichki)  
+1013	10 Huánuco	1001 Huánuco	100107 San Francisco de Cayran  
+1014	10 Huánuco	1001 Huánuco	100108 San Pedro de Chaulan  
+1015	10 Huánuco	1001 Huánuco	100109 Santa María del Valle  
+1016	10 Huánuco	1001 Huánuco	100110 Yarumayo  
+1017	10 Huánuco	1001 Huánuco	100111 Pillco Marca  
+1018	10 Huánuco	1001 Huánuco	100112 Yacus  
+1019	10 Huánuco	1001 Huánuco	100113 San Pablo de Pillao  
+1020	10 Huánuco	1002 Ambo  	
+1021	10 Huánuco	1002 Ambo	100201 Ambo  
+1022	10 Huánuco	1002 Ambo	100202 Cayna  
+1023	10 Huánuco	1002 Ambo	100203 Colpas  
+1024	10 Huánuco	1002 Ambo	100204 Conchamarca  
+1025	10 Huánuco	1002 Ambo	100205 Huacar  
+1026	10 Huánuco	1002 Ambo	100206 San Francisco  
+1027	10 Huánuco	1002 Ambo	100207 San Rafael  
+1028	10 Huánuco	1002 Ambo	100208 Tomay Kichwa  
+1029	10 Huánuco	1003 Dos de Mayo  	
+1030	10 Huánuco	1003 Dos de Mayo	100301 La Unión  
+1031	10 Huánuco	1003 Dos de Mayo	100307 Chuquis  
+1032	10 Huánuco	1003 Dos de Mayo	100311 Marías  
+1033	10 Huánuco	1003 Dos de Mayo	100313 Pachas  
+1034	10 Huánuco	1003 Dos de Mayo	100316 Quivilla  
+1035	10 Huánuco	1003 Dos de Mayo	100317 Ripan  
+1036	10 Huánuco	1003 Dos de Mayo	100321 Shunqui  
+1037	10 Huánuco	1003 Dos de Mayo	100322 Sillapata  
+1038	10 Huánuco	1003 Dos de Mayo	100323 Yanas  
+1039	10 Huánuco	1004 Huacaybamba  	
+1040	10 Huánuco	1004 Huacaybamba	100401 Huacaybamba  
+1041	10 Huánuco	1004 Huacaybamba	100402 Canchabamba  
+1042	10 Huánuco	1004 Huacaybamba	100403 Cochabamba  
+1043	10 Huánuco	1004 Huacaybamba	100404 Pinra  
+1044	10 Huánuco	1005 Huamalíes  	
+1045	10 Huánuco	1005 Huamalíes	100501 Llata  
+1046	10 Huánuco	1005 Huamalíes	100502 Arancay  
+1047	10 Huánuco	1005 Huamalíes	100503 Chavín de Pariarca  
+1048	10 Huánuco	1005 Huamalíes	100504 Jacas Grande  
+1049	10 Huánuco	1005 Huamalíes	100505 Jircan  
+1050	10 Huánuco	1005 Huamalíes	100506 Miraflores  
+1051	10 Huánuco	1005 Huamalíes	100507 Monzón  
+1052	10 Huánuco	1005 Huamalíes	100508 Punchao  
+1053	10 Huánuco	1005 Huamalíes	100509 Puños  
+1054	10 Huánuco	1005 Huamalíes	100510 Singa  
+1055	10 Huánuco	1005 Huamalíes	100511 Tantamayo  
+1056	10 Huánuco	1006 Leoncio Prado  	
+1057	10 Huánuco	1006 Leoncio Prado	100601 Rupa-Rupa  
+1058	10 Huánuco	1006 Leoncio Prado	100602 Daniel Alomía Robles  
+1059	10 Huánuco	1006 Leoncio Prado	100603 Hermílio Valdizan  
+1060	10 Huánuco	1006 Leoncio Prado	100604 José Crespo y Castillo  
+1061	10 Huánuco	1006 Leoncio Prado	100605 Luyando  
+1062	10 Huánuco	1006 Leoncio Prado	100606 Mariano Damaso Beraun  
+1063	10 Huánuco	1006 Leoncio Prado	100607 Pucayacu  
+1064	10 Huánuco	1006 Leoncio Prado	100608 Castillo Grande  
+1065	10 Huánuco	1006 Leoncio Prado	100609 Pueblo Nuevo  
+1066	10 Huánuco	1006 Leoncio Prado	100610 Santo Domingo de Anda  
+1067	10 Huánuco	1007 Marañón  	
+1068	10 Huánuco	1007 Marañón	100701 Huacrachuco  
+1069	10 Huánuco	1007 Marañón	100702 Cholon  
+1070	10 Huánuco	1007 Marañón	100703 San Buenaventura  
+1071	10 Huánuco	1007 Marañón	100704 La Morada  
+1072	10 Huánuco	1007 Marañón	100705 Santa Rosa de Alto Yanajanca  
+1073	10 Huánuco	1008 Pachitea  	
+1074	10 Huánuco	1008 Pachitea	100801 Panao  
+1075	10 Huánuco	1008 Pachitea	100802 Chaglla  
+1076	10 Huánuco	1008 Pachitea	100803 Molino  
+1077	10 Huánuco	1008 Pachitea	100804 Umari  
+1078	10 Huánuco	1009 Puerto Inca  	
+1079	10 Huánuco	1009 Puerto Inca	100901 Puerto Inca  
+1080	10 Huánuco	1009 Puerto Inca	100902 Codo del Pozuzo  
+1081	10 Huánuco	1009 Puerto Inca	100903 Honoria  
+1082	10 Huánuco	1009 Puerto Inca	100904 Tournavista  
+1083	10 Huánuco	1009 Puerto Inca	100905 Yuyapichis  
+1084	10 Huánuco	1010 Lauricocha  	
+1085	10 Huánuco	1010 Lauricocha	101001 Jesús  
+1086	10 Huánuco	1010 Lauricocha	101002 Baños  
+1087	10 Huánuco	1010 Lauricocha	101003 Jivia  
+1088	10 Huánuco	1010 Lauricocha	101004 Queropalca  
+1089	10 Huánuco	1010 Lauricocha	101005 Rondos  
+1090	10 Huánuco	1010 Lauricocha	101006 San Francisco de Asís  
+1091	10 Huánuco	1010 Lauricocha	101007 San Miguel de Cauri  
+1092	10 Huánuco	1011 Yarowilca  	
+1093	10 Huánuco	1011 Yarowilca	101101 Chavinillo  
+1094	10 Huánuco	1011 Yarowilca	101102 Cahuac  
+1095	10 Huánuco	1011 Yarowilca	101103 Chacabamba  
+1096	10 Huánuco	1011 Yarowilca	101104 Aparicio Pomares  
+1097	10 Huánuco	1011 Yarowilca	101105 Jacas Chico  
+1098	10 Huánuco	1011 Yarowilca	101106 Obas  
+1099	10 Huánuco	1011 Yarowilca	101107 Pampamarca  
+1100	10 Huánuco	1011 Yarowilca	101108 Choras  
+1101	11 Ica  		
+1102	11 Ica	1101 Ica  	
+1103	11 Ica	1101 Ica	110101 Ica  
+1104	11 Ica	1101 Ica	110102 La Tinguiña  
+1105	11 Ica	1101 Ica	110103 Los Aquijes  
+1106	11 Ica	1101 Ica	110104 Ocucaje  
+1107	11 Ica	1101 Ica	110105 Pachacutec  
+1108	11 Ica	1101 Ica	110106 Parcona  
+1109	11 Ica	1101 Ica	110107 Pueblo Nuevo  
+1110	11 Ica	1101 Ica	110108 Salas  
+1111	11 Ica	1101 Ica	110109 San José de Los Molinos  
+1112	11 Ica	1101 Ica	110110 San Juan Bautista  
+1113	11 Ica	1101 Ica	110111 Santiago  
+1114	11 Ica	1101 Ica	110112 Subtanjalla  
+1115	11 Ica	1101 Ica	110113 Tate  
+1116	11 Ica	1101 Ica	110114 Yauca del Rosario  
+1117	11 Ica	1102 Chincha  	
+1118	11 Ica	1102 Chincha	110201 Chincha Alta  
+1119	11 Ica	1102 Chincha	110202 Alto Laran  
+1120	11 Ica	1102 Chincha	110203 Chavin  
+1121	11 Ica	1102 Chincha	110204 Chincha Baja  
+1122	11 Ica	1102 Chincha	110205 El Carmen  
+1123	11 Ica	1102 Chincha	110206 Grocio Prado  
+1124	11 Ica	1102 Chincha	110207 Pueblo Nuevo  
+1125	11 Ica	1102 Chincha	110208 San Juan de Yanac  
+1126	11 Ica	1102 Chincha	110209 San Pedro de Huacarpana  
+1127	11 Ica	1102 Chincha	110210 Sunampe  
+1128	11 Ica	1102 Chincha	110211 Tambo de Mora  
+1129	11 Ica	1103 Nasca  	
+1130	11 Ica	1103 Nasca	110301 Nasca  
+1131	11 Ica	1103 Nasca	110302 Changuillo  
+1132	11 Ica	1103 Nasca	110303 El Ingenio  
+1133	11 Ica	1103 Nasca	110304 Marcona  
+1134	11 Ica	1103 Nasca	110305 Vista Alegre  
+1135	11 Ica	1104 Palpa  	
+1136	11 Ica	1104 Palpa	110401 Palpa  
+1137	11 Ica	1104 Palpa	110402 Llipata  
+1138	11 Ica	1104 Palpa	110403 Río Grande  
+1139	11 Ica	1104 Palpa	110404 Santa Cruz  
+1140	11 Ica	1104 Palpa	110405 Tibillo  
+1141	11 Ica	1105 Pisco  	
+1142	11 Ica	1105 Pisco	110501 Pisco  
+1143	11 Ica	1105 Pisco	110502 Huancano  
+1144	11 Ica	1105 Pisco	110503 Humay  
+1145	11 Ica	1105 Pisco	110504 Independencia  
+1146	11 Ica	1105 Pisco	110505 Paracas  
+1147	11 Ica	1105 Pisco	110506 San Andrés  
+1148	11 Ica	1105 Pisco	110507 San Clemente  
+1149	11 Ica	1105 Pisco	110508 Tupac Amaru Inca  
+1150	12 Junín  		
+1151	12 Junín	1201 Huancayo  	
+1152	12 Junín	1201 Huancayo	120101 Huancayo  
+1153	12 Junín	1201 Huancayo	120104 Carhuacallanga  
+1154	12 Junín	1201 Huancayo	120105 Chacapampa  
+1155	12 Junín	1201 Huancayo	120106 Chicche  
+1156	12 Junín	1201 Huancayo	120107 Chilca  
+1157	12 Junín	1201 Huancayo	120108 Chongos Alto  
+1158	12 Junín	1201 Huancayo	120111 Chupuro  
+1159	12 Junín	1201 Huancayo	120112 Colca  
+1160	12 Junín	1201 Huancayo	120113 Cullhuas  
+1161	12 Junín	1201 Huancayo	120114 El Tambo  
+1162	12 Junín	1201 Huancayo	120116 Huacrapuquio  
+1163	12 Junín	1201 Huancayo	120117 Hualhuas  
+1164	12 Junín	1201 Huancayo	120119 Huancan  
+1165	12 Junín	1201 Huancayo	120120 Huasicancha  
+1166	12 Junín	1201 Huancayo	120121 Huayucachi  
+1167	12 Junín	1201 Huancayo	120122 Ingenio  
+1168	12 Junín	1201 Huancayo	120124 Pariahuanca  
+1169	12 Junín	1201 Huancayo	120125 Pilcomayo  
+1170	12 Junín	1201 Huancayo	120126 Pucara  
+1171	12 Junín	1201 Huancayo	120127 Quichuay  
+1172	12 Junín	1201 Huancayo	120128 Quilcas  
+1173	12 Junín	1201 Huancayo	120129 San Agustín  
+1174	12 Junín	1201 Huancayo	120130 San Jerónimo de Tunan  
+1175	12 Junín	1201 Huancayo	120132 Saño  
+1176	12 Junín	1201 Huancayo	120133 Sapallanga  
+1177	12 Junín	1201 Huancayo	120134 Sicaya  
+1178	12 Junín	1201 Huancayo	120135 Santo Domingo de Acobamba  
+1179	12 Junín	1201 Huancayo	120136 Viques  
+1180	12 Junín	1202 Concepción  	
+1181	12 Junín	1202 Concepción	120201 Concepción  
+1182	12 Junín	1202 Concepción	120202 Aco  
+1183	12 Junín	1202 Concepción	120203 Andamarca  
+1184	12 Junín	1202 Concepción	120204 Chambara  
+1185	12 Junín	1202 Concepción	120205 Cochas  
+1186	12 Junín	1202 Concepción	120206 Comas  
+1187	12 Junín	1202 Concepción	120207 Heroínas Toledo  
+1188	12 Junín	1202 Concepción	120208 Manzanares  
+1189	12 Junín	1202 Concepción	120209 Mariscal Castilla  
+1190	12 Junín	1202 Concepción	120210 Matahuasi  
+1191	12 Junín	1202 Concepción	120211 Mito  
+1192	12 Junín	1202 Concepción	120212 Nueve de Julio  
+1193	12 Junín	1202 Concepción	120213 Orcotuna  
+1194	12 Junín	1202 Concepción	120214 San José de Quero  
+1195	12 Junín	1202 Concepción	120215 Santa Rosa de Ocopa  
+1196	12 Junín	1203 Chanchamayo  	
+1197	12 Junín	1203 Chanchamayo	120301 Chanchamayo  
+1198	12 Junín	1203 Chanchamayo	120302 Perene  
+1199	12 Junín	1203 Chanchamayo	120303 Pichanaqui  
+1200	12 Junín	1203 Chanchamayo	120304 San Luis de Shuaro  
+1201	12 Junín	1203 Chanchamayo	120305 San Ramón  
+1202	12 Junín	1203 Chanchamayo	120306 Vitoc  
+1203	12 Junín	1204 Jauja  	
+1204	12 Junín	1204 Jauja	120401 Jauja  
+1205	12 Junín	1204 Jauja	120402 Acolla  
+1206	12 Junín	1204 Jauja	120403 Apata  
+1207	12 Junín	1204 Jauja	120404 Ataura  
+1208	12 Junín	1204 Jauja	120405 Canchayllo  
+1209	12 Junín	1204 Jauja	120406 Curicaca  
+1210	12 Junín	1204 Jauja	120407 El Mantaro  
+1211	12 Junín	1204 Jauja	120408 Huamali  
+1212	12 Junín	1204 Jauja	120409 Huaripampa  
+1213	12 Junín	1204 Jauja	120410 Huertas  
+1214	12 Junín	1204 Jauja	120411 Janjaillo  
+1215	12 Junín	1204 Jauja	120412 Julcán  
+1216	12 Junín	1204 Jauja	120413 Leonor Ordóñez  
+1217	12 Junín	1204 Jauja	120414 Llocllapampa  
+1218	12 Junín	1204 Jauja	120415 Marco  
+1219	12 Junín	1204 Jauja	120416 Masma  
+1220	12 Junín	1204 Jauja	120417 Masma Chicche  
+1221	12 Junín	1204 Jauja	120418 Molinos  
+1222	12 Junín	1204 Jauja	120419 Monobamba  
+1223	12 Junín	1204 Jauja	120420 Muqui  
+1224	12 Junín	1204 Jauja	120421 Muquiyauyo  
+1225	12 Junín	1204 Jauja	120422 Paca  
+1226	12 Junín	1204 Jauja	120423 Paccha  
+1227	12 Junín	1204 Jauja	120424 Pancan  
+1228	12 Junín	1204 Jauja	120425 Parco  
+1229	12 Junín	1204 Jauja	120426 Pomacancha  
+1230	12 Junín	1204 Jauja	120427 Ricran  
+1231	12 Junín	1204 Jauja	120428 San Lorenzo  
+1232	12 Junín	1204 Jauja	120429 San Pedro de Chunan  
+1233	12 Junín	1204 Jauja	120430 Sausa  
+1234	12 Junín	1204 Jauja	120431 Sincos  
+1235	12 Junín	1204 Jauja	120432 Tunan Marca  
+1236	12 Junín	1204 Jauja	120433 Yauli  
+1237	12 Junín	1204 Jauja	120434 Yauyos  
+1238	12 Junín	1205 Junín  	
+1239	12 Junín	1205 Junín	120501 Junin  
+1240	12 Junín	1205 Junín	120502 Carhuamayo  
+1241	12 Junín	1205 Junín	120503 Ondores  
+1242	12 Junín	1205 Junín	120504 Ulcumayo  
+1243	12 Junín	1206 Satipo  	
+1244	12 Junín	1206 Satipo	120601 Satipo  
+1245	12 Junín	1206 Satipo	120602 Coviriali  
+1246	12 Junín	1206 Satipo	120603 Llaylla  
+1247	12 Junín	1206 Satipo	120604 Mazamari  
+1248	12 Junín	1206 Satipo	120605 Pampa Hermosa  
+1249	12 Junín	1206 Satipo	120606 Pangoa  
+1250	12 Junín	1206 Satipo	120607 Río Negro  
+1251	12 Junín	1206 Satipo	120608 Río Tambo  
+1252	12 Junín	1206 Satipo	120609 Vizcatan del Ene  
+1253	12 Junín	1207 Tarma  	
+1254	12 Junín	1207 Tarma	120701 Tarma  
+1255	12 Junín	1207 Tarma	120702 Acobamba  
+1256	12 Junín	1207 Tarma	120703 Huaricolca  
+1257	12 Junín	1207 Tarma	120704 Huasahuasi  
+1258	12 Junín	1207 Tarma	120705 La Unión  
+1259	12 Junín	1207 Tarma	120706 Palca  
+1260	12 Junín	1207 Tarma	120707 Palcamayo  
+1261	12 Junín	1207 Tarma	120708 San Pedro de Cajas  
+1262	12 Junín	1207 Tarma	120709 Tapo  
+1263	12 Junín	1208 Yauli  	
+1264	12 Junín	1208 Yauli	120801 La Oroya  
+1265	12 Junín	1208 Yauli	120802 Chacapalpa  
+1266	12 Junín	1208 Yauli	120803 Huay-Huay  
+1267	12 Junín	1208 Yauli	120804 Marcapomacocha  
+1268	12 Junín	1208 Yauli	120805 Morococha  
+1269	12 Junín	1208 Yauli	120806 Paccha  
+1270	12 Junín	1208 Yauli	120807 Santa Bárbara de Carhuacayan  
+1271	12 Junín	1208 Yauli	120808 Santa Rosa de Sacco  
+1272	12 Junín	1208 Yauli	120809 Suitucancha  
+1273	12 Junín	1208 Yauli	120810 Yauli  
+1274	12 Junín	1209 Chupaca  	
+1275	12 Junín	1209 Chupaca	120901 Chupaca  
+1276	12 Junín	1209 Chupaca	120902 Ahuac  
+1277	12 Junín	1209 Chupaca	120903 Chongos Bajo  
+1278	12 Junín	1209 Chupaca	120904 Huachac  
+1279	12 Junín	1209 Chupaca	120905 Huamancaca Chico  
+1280	12 Junín	1209 Chupaca	120906 San Juan de Iscos  
+1281	12 Junín	1209 Chupaca	120907 San Juan de Jarpa  
+1282	12 Junín	1209 Chupaca	120908 Tres de Diciembre  
+1283	12 Junín	1209 Chupaca	120909 Yanacancha  
+1284	13 La Libertad  		
+1285	13 La Libertad	1301 Trujillo  	
+1286	13 La Libertad	1301 Trujillo	130101 Trujillo  
+1287	13 La Libertad	1301 Trujillo	130102 El Porvenir  
+1288	13 La Libertad	1301 Trujillo	130103 Florencia de Mora  
+1289	13 La Libertad	1301 Trujillo	130104 Huanchaco  
+1290	13 La Libertad	1301 Trujillo	130105 La Esperanza  
+1291	13 La Libertad	1301 Trujillo	130106 Laredo  
+1292	13 La Libertad	1301 Trujillo	130107 Moche  
+1293	13 La Libertad	1301 Trujillo	130108 Poroto  
+1294	13 La Libertad	1301 Trujillo	130109 Salaverry  
+1295	13 La Libertad	1301 Trujillo	130110 Simbal  
+1296	13 La Libertad	1301 Trujillo	130111 Victor Larco Herrera  
+1297	13 La Libertad	1302 Ascope  	
+1298	13 La Libertad	1302 Ascope	130201 Ascope  
+1299	13 La Libertad	1302 Ascope	130202 Chicama  
+1300	13 La Libertad	1302 Ascope	130203 Chocope  
+1301	13 La Libertad	1302 Ascope	130204 Magdalena de Cao  
+1302	13 La Libertad	1302 Ascope	130205 Paijan  
+1303	13 La Libertad	1302 Ascope	130206 Rázuri  
+1304	13 La Libertad	1302 Ascope	130207 Santiago de Cao  
+1305	13 La Libertad	1302 Ascope	130208 Casa Grande  
+1306	13 La Libertad	1303 Bolívar  	
+1307	13 La Libertad	1303 Bolívar	130301 Bolívar  
+1308	13 La Libertad	1303 Bolívar	130302 Bambamarca  
+1309	13 La Libertad	1303 Bolívar	130303 Condormarca  
+1310	13 La Libertad	1303 Bolívar	130304 Longotea  
+1311	13 La Libertad	1303 Bolívar	130305 Uchumarca  
+1312	13 La Libertad	1303 Bolívar	130306 Ucuncha  
+1313	13 La Libertad	1304 Chepén  	
+1314	13 La Libertad	1304 Chepén	130401 Chepen  
+1315	13 La Libertad	1304 Chepén	130402 Pacanga  
+1316	13 La Libertad	1304 Chepén	130403 Pueblo Nuevo  
+1317	13 La Libertad	1305 Julcán  	
+1318	13 La Libertad	1305 Julcán	130501 Julcan  
+1319	13 La Libertad	1305 Julcán	130502 Calamarca  
+1320	13 La Libertad	1305 Julcán	130503 Carabamba  
+1321	13 La Libertad	1305 Julcán	130504 Huaso  
+1322	13 La Libertad	1306 Otuzco  	
+1323	13 La Libertad	1306 Otuzco	130601 Otuzco  
+1324	13 La Libertad	1306 Otuzco	130602 Agallpampa  
+1325	13 La Libertad	1306 Otuzco	130604 Charat  
+1326	13 La Libertad	1306 Otuzco	130605 Huaranchal  
+1327	13 La Libertad	1306 Otuzco	130606 La Cuesta  
+1328	13 La Libertad	1306 Otuzco	130608 Mache  
+1329	13 La Libertad	1306 Otuzco	130610 Paranday  
+1330	13 La Libertad	1306 Otuzco	130611 Salpo  
+1331	13 La Libertad	1306 Otuzco	130613 Sinsicap  
+1332	13 La Libertad	1306 Otuzco	130614 Usquil  
+1333	13 La Libertad	1307 Pacasmayo  	
+1334	13 La Libertad	1307 Pacasmayo	130701 San Pedro de Lloc  
+1335	13 La Libertad	1307 Pacasmayo	130702 Guadalupe  
+1336	13 La Libertad	1307 Pacasmayo	130703 Jequetepeque  
+1337	13 La Libertad	1307 Pacasmayo	130704 Pacasmayo  
+1338	13 La Libertad	1307 Pacasmayo	130705 San José  
+1339	13 La Libertad	1308 Pataz  	
+1340	13 La Libertad	1308 Pataz	130801 Tayabamba  
+1341	13 La Libertad	1308 Pataz	130802 Buldibuyo  
+1342	13 La Libertad	1308 Pataz	130803 Chillia  
+1343	13 La Libertad	1308 Pataz	130804 Huancaspata  
+1344	13 La Libertad	1308 Pataz	130805 Huaylillas  
+1345	13 La Libertad	1308 Pataz	130806 Huayo  
+1346	13 La Libertad	1308 Pataz	130807 Ongon  
+1347	13 La Libertad	1308 Pataz	130808 Parcoy  
+1348	13 La Libertad	1308 Pataz	130809 Pataz  
+1349	13 La Libertad	1308 Pataz	130810 Pias  
+1350	13 La Libertad	1308 Pataz	130811 Santiago de Challas  
+1351	13 La Libertad	1308 Pataz	130812 Taurija  
+1352	13 La Libertad	1308 Pataz	130813 Urpay  
+1353	13 La Libertad	1309 Sánchez Carrión  	
+1354	13 La Libertad	1309 Sánchez Carrión	130901 Huamachuco  
+1355	13 La Libertad	1309 Sánchez Carrión	130902 Chugay  
+1356	13 La Libertad	1309 Sánchez Carrión	130903 Cochorco  
+1357	13 La Libertad	1309 Sánchez Carrión	130904 Curgos  
+1358	13 La Libertad	1309 Sánchez Carrión	130905 Marcabal  
+1359	13 La Libertad	1309 Sánchez Carrión	130906 Sanagoran  
+1360	13 La Libertad	1309 Sánchez Carrión	130907 Sarin  
+1361	13 La Libertad	1309 Sánchez Carrión	130908 Sartimbamba  
+1362	13 La Libertad	1310 Santiago de Chuco  	
+1363	13 La Libertad	1310 Santiago de Chuco	131001 Santiago de Chuco  
+1364	13 La Libertad	1310 Santiago de Chuco	131002 Angasmarca  
+1365	13 La Libertad	1310 Santiago de Chuco	131003 Cachicadan  
+1366	13 La Libertad	1310 Santiago de Chuco	131004 Mollebamba  
+1367	13 La Libertad	1310 Santiago de Chuco	131005 Mollepata  
+1368	13 La Libertad	1310 Santiago de Chuco	131006 Quiruvilca  
+1369	13 La Libertad	1310 Santiago de Chuco	131007 Santa Cruz de Chuca  
+1370	13 La Libertad	1310 Santiago de Chuco	131008 Sitabamba  
+1371	13 La Libertad	1311 Gran Chimú  	
+1372	13 La Libertad	1311 Gran Chimú	131101 Cascas  
+1373	13 La Libertad	1311 Gran Chimú	131102 Lucma  
+1374	13 La Libertad	1311 Gran Chimú	131103 Marmot  
+1375	13 La Libertad	1311 Gran Chimú	131104 Sayapullo  
+1376	13 La Libertad	1312 Virú  	
+1377	13 La Libertad	1312 Virú	131201 Viru  
+1378	13 La Libertad	1312 Virú	131202 Chao  
+1379	13 La Libertad	1312 Virú	131203 Guadalupito  
+1380	14 Lambayeque  		
+1381	14 Lambayeque	1401 Chiclayo  	
+1382	14 Lambayeque	1401 Chiclayo	140101 Chiclayo  
+1383	14 Lambayeque	1401 Chiclayo	140102 Chongoyape  
+1384	14 Lambayeque	1401 Chiclayo	140103 Eten  
+1385	14 Lambayeque	1401 Chiclayo	140104 Eten Puerto  
+1386	14 Lambayeque	1401 Chiclayo	140105 José Leonardo Ortiz  
+1387	14 Lambayeque	1401 Chiclayo	140106 La Victoria  
+1388	14 Lambayeque	1401 Chiclayo	140107 Lagunas  
+1389	14 Lambayeque	1401 Chiclayo	140108 Monsefu  
+1390	14 Lambayeque	1401 Chiclayo	140109 Nueva Arica  
+1391	14 Lambayeque	1401 Chiclayo	140110 Oyotun  
+1392	14 Lambayeque	1401 Chiclayo	140111 Picsi  
+1393	14 Lambayeque	1401 Chiclayo	140112 Pimentel  
+1394	14 Lambayeque	1401 Chiclayo	140113 Reque  
+1395	14 Lambayeque	1401 Chiclayo	140114 Santa Rosa  
+1396	14 Lambayeque	1401 Chiclayo	140115 Saña  
+1397	14 Lambayeque	1401 Chiclayo	140116 Cayalti  
+1398	14 Lambayeque	1401 Chiclayo	140117 Patapo  
+1399	14 Lambayeque	1401 Chiclayo	140118 Pomalca  
+1400	14 Lambayeque	1401 Chiclayo	140119 Pucala  
+1401	14 Lambayeque	1401 Chiclayo	140120 Tuman  
+1402	14 Lambayeque	1402 Ferreñafe  	
+1403	14 Lambayeque	1402 Ferreñafe	140201 Ferreñafe  
+1404	14 Lambayeque	1402 Ferreñafe	140202 Cañaris  
+1405	14 Lambayeque	1402 Ferreñafe	140203 Incahuasi  
+1406	14 Lambayeque	1402 Ferreñafe	140204 Manuel Antonio Mesones Muro  
+1407	14 Lambayeque	1402 Ferreñafe	140205 Pitipo  
+1408	14 Lambayeque	1402 Ferreñafe	140206 Pueblo Nuevo  
+1409	14 Lambayeque	1403 Lambayeque  	
+1410	14 Lambayeque	1403 Lambayeque	140301 Lambayeque  
+1411	14 Lambayeque	1403 Lambayeque	140302 Chochope  
+1412	14 Lambayeque	1403 Lambayeque	140303 Illimo  
+1413	14 Lambayeque	1403 Lambayeque	140304 Jayanca  
+1414	14 Lambayeque	1403 Lambayeque	140305 Mochumi  
+1415	14 Lambayeque	1403 Lambayeque	140306 Morrope  
+1416	14 Lambayeque	1403 Lambayeque	140307 Motupe  
+1417	14 Lambayeque	1403 Lambayeque	140308 Olmos  
+1418	14 Lambayeque	1403 Lambayeque	140309 Pacora  
+1419	14 Lambayeque	1403 Lambayeque	140310 Salas  
+1420	14 Lambayeque	1403 Lambayeque	140311 San José  
+1421	14 Lambayeque	1403 Lambayeque	140312 Tucume  
+1422	15 Lima  		
+1423	15 Lima	1501 Lima  	
+1424	15 Lima	1501 Lima	150101 Lima  
+1425	15 Lima	1501 Lima	150102 Ancón  
+1426	15 Lima	1501 Lima	150103 Ate  
+1427	15 Lima	1501 Lima	150104 Barranco  
+1428	15 Lima	1501 Lima	150105 Breña  
+1429	15 Lima	1501 Lima	150106 Carabayllo  
+1430	15 Lima	1501 Lima	150107 Chaclacayo  
+1431	15 Lima	1501 Lima	150108 Chorrillos  
+1432	15 Lima	1501 Lima	150109 Cieneguilla  
+1433	15 Lima	1501 Lima	150110 Comas  
+1434	15 Lima	1501 Lima	150111 El Agustino  
+1435	15 Lima	1501 Lima	150112 Independencia  
+1436	15 Lima	1501 Lima	150113 Jesús María  
+1437	15 Lima	1501 Lima	150114 La Molina  
+1438	15 Lima	1501 Lima	150115 La Victoria  
+1439	15 Lima	1501 Lima	150116 Lince  
+1440	15 Lima	1501 Lima	150117 Los Olivos  
+1441	15 Lima	1501 Lima	150118 Lurigancho  
+1442	15 Lima	1501 Lima	150119 Lurin  
+1443	15 Lima	1501 Lima	150120 Magdalena del Mar  
+1444	15 Lima	1501 Lima	150121 Pueblo Libre  
+1445	15 Lima	1501 Lima	150122 Miraflores  
+1446	15 Lima	1501 Lima	150123 Pachacamac  
+1447	15 Lima	1501 Lima	150124 Pucusana  
+1448	15 Lima	1501 Lima	150125 Puente Piedra  
+1449	15 Lima	1501 Lima	150126 Punta Hermosa  
+1450	15 Lima	1501 Lima	150127 Punta Negra  
+1451	15 Lima	1501 Lima	150128 Rímac  
+1452	15 Lima	1501 Lima	150129 San Bartolo  
+1453	15 Lima	1501 Lima	150130 San Borja  
+1454	15 Lima	1501 Lima	150131 San Isidro  
+1455	15 Lima	1501 Lima	150132 San Juan de Lurigancho  
+1456	15 Lima	1501 Lima	150133 San Juan de Miraflores  
+1457	15 Lima	1501 Lima	150134 San Luis  
+1458	15 Lima	1501 Lima	150135 San Martín de Porres  
+1459	15 Lima	1501 Lima	150136 San Miguel  
+1460	15 Lima	1501 Lima	150137 Santa Anita  
+1461	15 Lima	1501 Lima	150138 Santa María del Mar  
+1462	15 Lima	1501 Lima	150139 Santa Rosa  
+1463	15 Lima	1501 Lima	150140 Santiago de Surco  
+1464	15 Lima	1501 Lima	150141 Surquillo  
+1465	15 Lima	1501 Lima	150142 Villa El Salvador  
+1466	15 Lima	1501 Lima	150143 Villa María del Triunfo  
+1467	15 Lima	1502 Barranca  	
+1468	15 Lima	1502 Barranca	150201 Barranca  
+1469	15 Lima	1502 Barranca	150202 Paramonga  
+1470	15 Lima	1502 Barranca	150203 Pativilca  
+1471	15 Lima	1502 Barranca	150204 Supe  
+1472	15 Lima	1502 Barranca	150205 Supe Puerto  
+1473	15 Lima	1503 Cajatambo  	
+1474	15 Lima	1503 Cajatambo	150301 Cajatambo  
+1475	15 Lima	1503 Cajatambo	150302 Copa  
+1476	15 Lima	1503 Cajatambo	150303 Gorgor  
+1477	15 Lima	1503 Cajatambo	150304 Huancapon  
+1478	15 Lima	1503 Cajatambo	150305 Manas  
+1479	15 Lima	1504 Canta  	
+1480	15 Lima	1504 Canta	150401 Canta  
+1481	15 Lima	1504 Canta	150402 Arahuay  
+1482	15 Lima	1504 Canta	150403 Huamantanga  
+1483	15 Lima	1504 Canta	150404 Huaros  
+1484	15 Lima	1504 Canta	150405 Lachaqui  
+1485	15 Lima	1504 Canta	150406 San Buenaventura  
+1486	15 Lima	1504 Canta	150407 Santa Rosa de Quives  
+1487	15 Lima	1505 Cañete  	
+1488	15 Lima	1505 Cañete	150501 San Vicente de Cañete  
+1489	15 Lima	1505 Cañete	150502 Asia  
+1490	15 Lima	1505 Cañete	150503 Calango  
+1491	15 Lima	1505 Cañete	150504 Cerro Azul  
+1492	15 Lima	1505 Cañete	150505 Chilca  
+1493	15 Lima	1505 Cañete	150506 Coayllo  
+1494	15 Lima	1505 Cañete	150507 Imperial  
+1495	15 Lima	1505 Cañete	150508 Lunahuana  
+1496	15 Lima	1505 Cañete	150509 Mala  
+1497	15 Lima	1505 Cañete	150510 Nuevo Imperial  
+1498	15 Lima	1505 Cañete	150511 Pacaran  
+1499	15 Lima	1505 Cañete	150512 Quilmana  
+1500	15 Lima	1505 Cañete	150513 San Antonio  
+1501	15 Lima	1505 Cañete	150514 San Luis  
+1502	15 Lima	1505 Cañete	150515 Santa Cruz de Flores  
+1503	15 Lima	1505 Cañete	150516 Zúñiga  
+1504	15 Lima	1506 Huaral  	
+1505	15 Lima	1506 Huaral	150601 Huaral  
+1506	15 Lima	1506 Huaral	150602 Atavillos Alto  
+1507	15 Lima	1506 Huaral	150603 Atavillos Bajo  
+1508	15 Lima	1506 Huaral	150604 Aucallama  
+1509	15 Lima	1506 Huaral	150605 Chancay  
+1510	15 Lima	1506 Huaral	150606 Ihuari  
+1511	15 Lima	1506 Huaral	150607 Lampian  
+1512	15 Lima	1506 Huaral	150608 Pacaraos  
+1513	15 Lima	1506 Huaral	150609 San Miguel de Acos  
+1514	15 Lima	1506 Huaral	150610 Santa Cruz de Andamarca  
+1515	15 Lima	1506 Huaral	150611 Sumbilca  
+1516	15 Lima	1506 Huaral	150612 Veintisiete de Noviembre  
+1517	15 Lima	1507 Huarochirí  	
+1518	15 Lima	1507 Huarochirí	150701 Matucana  
+1519	15 Lima	1507 Huarochirí	150702 Antioquia  
+1520	15 Lima	1507 Huarochirí	150703 Callahuanca  
+1521	15 Lima	1507 Huarochirí	150704 Carampoma  
+1522	15 Lima	1507 Huarochirí	150705 Chicla  
+1523	15 Lima	1507 Huarochirí	150706 Cuenca  
+1524	15 Lima	1507 Huarochirí	150707 Huachupampa  
+1525	15 Lima	1507 Huarochirí	150708 Huanza  
+1526	15 Lima	1507 Huarochirí	150709 Huarochiri  
+1527	15 Lima	1507 Huarochirí	150710 Lahuaytambo  
+1528	15 Lima	1507 Huarochirí	150711 Langa  
+1529	15 Lima	1507 Huarochirí	150712 Laraos  
+1530	15 Lima	1507 Huarochirí	150713 Mariatana  
+1531	15 Lima	1507 Huarochirí	150714 Ricardo Palma  
+1532	15 Lima	1507 Huarochirí	150715 San Andrés de Tupicocha  
+1533	15 Lima	1507 Huarochirí	150716 San Antonio  
+1534	15 Lima	1507 Huarochirí	150717 San Bartolomé  
+1535	15 Lima	1507 Huarochirí	150718 San Damian  
+1536	15 Lima	1507 Huarochirí	150719 San Juan de Iris  
+1537	15 Lima	1507 Huarochirí	150720 San Juan de Tantaranche  
+1538	15 Lima	1507 Huarochirí	150721 San Lorenzo de Quinti  
+1539	15 Lima	1507 Huarochirí	150722 San Mateo  
+1540	15 Lima	1507 Huarochirí	150723 San Mateo de Otao  
+1541	15 Lima	1507 Huarochirí	150724 San Pedro de Casta  
+1542	15 Lima	1507 Huarochirí	150725 San Pedro de Huancayre  
+1543	15 Lima	1507 Huarochirí	150726 Sangallaya  
+1544	15 Lima	1507 Huarochirí	150727 Santa Cruz de Cocachacra  
+1545	15 Lima	1507 Huarochirí	150728 Santa Eulalia  
+1546	15 Lima	1507 Huarochirí	150729 Santiago de Anchucaya  
+1547	15 Lima	1507 Huarochirí	150730 Santiago de Tuna  
+1548	15 Lima	1507 Huarochirí	150731 Santo Domingo de Los Olleros  
+1549	15 Lima	1507 Huarochirí	150732 Surco  
+1550	15 Lima	1508 Huaura  	
+1551	15 Lima	1508 Huaura	150801 Huacho  
+1552	15 Lima	1508 Huaura	150802 Ambar  
+1553	15 Lima	1508 Huaura	150803 Caleta de Carquin  
+1554	15 Lima	1508 Huaura	150804 Checras  
+1555	15 Lima	1508 Huaura	150805 Hualmay  
+1556	15 Lima	1508 Huaura	150806 Huaura  
+1557	15 Lima	1508 Huaura	150807 Leoncio Prado  
+1558	15 Lima	1508 Huaura	150808 Paccho  
+1559	15 Lima	1508 Huaura	150809 Santa Leonor  
+1560	15 Lima	1508 Huaura	150810 Santa María  
+1561	15 Lima	1508 Huaura	150811 Sayan  
+1562	15 Lima	1508 Huaura	150812 Vegueta  
+1563	15 Lima	1509 Oyón  	
+1564	15 Lima	1509 Oyón	150901 Oyon  
+1565	15 Lima	1509 Oyón	150902 Andajes  
+1566	15 Lima	1509 Oyón	150903 Caujul  
+1567	15 Lima	1509 Oyón	150904 Cochamarca  
+1568	15 Lima	1509 Oyón	150905 Navan  
+1569	15 Lima	1509 Oyón	150906 Pachangara  
+1570	15 Lima	1510 Yauyos  	
+1571	15 Lima	1510 Yauyos	151001 Yauyos  
+1572	15 Lima	1510 Yauyos	151002 Alis  
+1573	15 Lima	1510 Yauyos	151003 Allauca  
+1574	15 Lima	1510 Yauyos	151004 Ayaviri  
+1575	15 Lima	1510 Yauyos	151005 Azángaro  
+1576	15 Lima	1510 Yauyos	151006 Cacra  
+1577	15 Lima	1510 Yauyos	151007 Carania  
+1578	15 Lima	1510 Yauyos	151008 Catahuasi  
+1579	15 Lima	1510 Yauyos	151009 Chocos  
+1580	15 Lima	1510 Yauyos	151010 Cochas  
+1581	15 Lima	1510 Yauyos	151011 Colonia  
+1582	15 Lima	1510 Yauyos	151012 Hongos  
+1583	15 Lima	1510 Yauyos	151013 Huampara  
+1584	15 Lima	1510 Yauyos	151014 Huancaya  
+1585	15 Lima	1510 Yauyos	151015 Huangascar  
+1586	15 Lima	1510 Yauyos	151016 Huantan  
+1587	15 Lima	1510 Yauyos	151017 Huañec  
+1588	15 Lima	1510 Yauyos	151018 Laraos  
+1589	15 Lima	1510 Yauyos	151019 Lincha  
+1590	15 Lima	1510 Yauyos	151020 Madean  
+1591	15 Lima	1510 Yauyos	151021 Miraflores  
+1592	15 Lima	1510 Yauyos	151022 Omas  
+1593	15 Lima	1510 Yauyos	151023 Putinza  
+1594	15 Lima	1510 Yauyos	151024 Quinches  
+1595	15 Lima	1510 Yauyos	151025 Quinocay  
+1596	15 Lima	1510 Yauyos	151026 San Joaquín  
+1597	15 Lima	1510 Yauyos	151027 San Pedro de Pilas  
+1598	15 Lima	1510 Yauyos	151028 Tanta  
+1599	15 Lima	1510 Yauyos	151029 Tauripampa  
+1600	15 Lima	1510 Yauyos	151030 Tomas  
+1601	15 Lima	1510 Yauyos	151031 Tupe  
+1602	15 Lima	1510 Yauyos	151032 Viñac  
+1603	15 Lima	1510 Yauyos	151033 Vitis  
+1604	16 Loreto  		
+1605	16 Loreto	1601 Maynas  	
+1606	16 Loreto	1601 Maynas	160101 Iquitos  
+1607	16 Loreto	1601 Maynas	160102 Alto Nanay  
+1608	16 Loreto	1601 Maynas	160103 Fernando Lores  
+1609	16 Loreto	1601 Maynas	160104 Indiana  
+1610	16 Loreto	1601 Maynas	160105 Las Amazonas  
+1611	16 Loreto	1601 Maynas	160106 Mazan  
+1612	16 Loreto	1601 Maynas	160107 Napo  
+1613	16 Loreto	1601 Maynas	160108 Punchana  
+1614	16 Loreto	1601 Maynas	160110 Torres Causana  
+1615	16 Loreto	1601 Maynas	160112 Belén  
+1616	16 Loreto	1601 Maynas	160113 San Juan Bautista  
+1617	16 Loreto	1602 Alto Amazonas  	
+1618	16 Loreto	1602 Alto Amazonas	160201 Yurimaguas  
+1619	16 Loreto	1602 Alto Amazonas	160202 Balsapuerto  
+1620	16 Loreto	1602 Alto Amazonas	160205 Jeberos  
+1621	16 Loreto	1602 Alto Amazonas	160206 Lagunas  
+1622	16 Loreto	1602 Alto Amazonas	160210 Santa Cruz  
+1623	16 Loreto	1602 Alto Amazonas	160211 Teniente Cesar López Rojas  
+1624	16 Loreto	1603 Loreto  	
+1625	16 Loreto	1603 Loreto	160301 Nauta  
+1626	16 Loreto	1603 Loreto	160302 Parinari  
+1627	16 Loreto	1603 Loreto	160303 Tigre  
+1628	16 Loreto	1603 Loreto	160304 Trompeteros  
+1629	16 Loreto	1603 Loreto	160305 Urarinas  
+1630	16 Loreto	1604 Mariscal Ramón Castilla  	
+1631	16 Loreto	1604 Mariscal Ramón Castilla	160401 Ramón Castilla  
+1632	16 Loreto	1604 Mariscal Ramón Castilla	160402 Pebas  
+1633	16 Loreto	1604 Mariscal Ramón Castilla	160403 Yavari  
+1634	16 Loreto	1604 Mariscal Ramón Castilla	160404 San Pablo  
+1635	16 Loreto	1605 Requena  	
+1636	16 Loreto	1605 Requena	160501 Requena  
+1637	16 Loreto	1605 Requena	160502 Alto Tapiche  
+1638	16 Loreto	1605 Requena	160503 Capelo  
+1639	16 Loreto	1605 Requena	160504 Emilio San Martín  
+1640	16 Loreto	1605 Requena	160505 Maquia  
+1641	16 Loreto	1605 Requena	160506 Puinahua  
+1642	16 Loreto	1605 Requena	160507 Saquena  
+1643	16 Loreto	1605 Requena	160508 Soplin  
+1644	16 Loreto	1605 Requena	160509 Tapiche  
+1645	16 Loreto	1605 Requena	160510 Jenaro Herrera  
+1646	16 Loreto	1605 Requena	160511 Yaquerana  
+1647	16 Loreto	1606 Ucayali  	
+1648	16 Loreto	1606 Ucayali	160601 Contamana  
+1649	16 Loreto	1606 Ucayali	160602 Inahuaya  
+1650	16 Loreto	1606 Ucayali	160603 Padre Márquez  
+1651	16 Loreto	1606 Ucayali	160604 Pampa Hermosa  
+1652	16 Loreto	1606 Ucayali	160605 Sarayacu  
+1653	16 Loreto	1606 Ucayali	160606 Vargas Guerra  
+1654	16 Loreto	1607 Datem del Marañón  	
+1655	16 Loreto	1607 Datem del Marañón	160701 Barranca  
+1656	16 Loreto	1607 Datem del Marañón	160702 Cahuapanas  
+1657	16 Loreto	1607 Datem del Marañón	160703 Manseriche  
+1658	16 Loreto	1607 Datem del Marañón	160704 Morona  
+1659	16 Loreto	1607 Datem del Marañón	160705 Pastaza  
+1660	16 Loreto	1607 Datem del Marañón	160706 Andoas  
+1661	16 Loreto	1608 Putumayo  	
+1662	16 Loreto	1608 Putumayo	160801 Putumayo  
+1663	16 Loreto	1608 Putumayo	160802 Rosa Panduro  
+1664	16 Loreto	1608 Putumayo	160803 Teniente Manuel Clavero  
+1665	16 Loreto	1608 Putumayo	160804 Yaguas  
+1666	17 Madre de Dios  		
+1667	17 Madre de Dios	1701 Tambopata  	
+1668	17 Madre de Dios	1701 Tambopata	170101 Tambopata  
+1669	17 Madre de Dios	1701 Tambopata	170102 Inambari  
+1670	17 Madre de Dios	1701 Tambopata	170103 Las Piedras  
+1671	17 Madre de Dios	1701 Tambopata	170104 Laberinto  
+1672	17 Madre de Dios	1702 Manu  	
+1673	17 Madre de Dios	1702 Manu	170201 Manu  
+1674	17 Madre de Dios	1702 Manu	170202 Fitzcarrald  
+1675	17 Madre de Dios	1702 Manu	170203 Madre de Dios  
+1676	17 Madre de Dios	1702 Manu	170204 Huepetuhe  
+1677	17 Madre de Dios	1703 Tahuamanu  	
+1678	17 Madre de Dios	1703 Tahuamanu	170301 Iñapari  
+1679	17 Madre de Dios	1703 Tahuamanu	170302 Iberia  
+1680	17 Madre de Dios	1703 Tahuamanu	170303 Tahuamanu  
+1681	18 Moquegua  		
+1682	18 Moquegua	1801 Mariscal Nieto  	
+1683	18 Moquegua	1801 Mariscal Nieto	180101 Moquegua  
+1684	18 Moquegua	1801 Mariscal Nieto	180102 Carumas  
+1685	18 Moquegua	1801 Mariscal Nieto	180103 Cuchumbaya  
+1686	18 Moquegua	1801 Mariscal Nieto	180104 Samegua  
+1687	18 Moquegua	1801 Mariscal Nieto	180105 San Cristóbal  
+1688	18 Moquegua	1801 Mariscal Nieto	180106 Torata  
+1689	18 Moquegua	1802 General Sánchez Cerro  	
+1690	18 Moquegua	1802 General Sánchez Cerro	180201 Omate  
+1691	18 Moquegua	1802 General Sánchez Cerro	180202 Chojata  
+1692	18 Moquegua	1802 General Sánchez Cerro	180203 Coalaque  
+1693	18 Moquegua	1802 General Sánchez Cerro	180204 Ichuña  
+1694	18 Moquegua	1802 General Sánchez Cerro	180205 La Capilla  
+1695	18 Moquegua	1802 General Sánchez Cerro	180206 Lloque  
+1696	18 Moquegua	1802 General Sánchez Cerro	180207 Matalaque  
+1697	18 Moquegua	1802 General Sánchez Cerro	180208 Puquina  
+1698	18 Moquegua	1802 General Sánchez Cerro	180209 Quinistaquillas  
+1699	18 Moquegua	1802 General Sánchez Cerro	180210 Ubinas  
+1700	18 Moquegua	1802 General Sánchez Cerro	180211 Yunga  
+1701	18 Moquegua	1803 Ilo  	
+1702	18 Moquegua	1803 Ilo	180301 Ilo  
+1703	18 Moquegua	1803 Ilo	180302 El Algarrobal  
+1704	18 Moquegua	1803 Ilo	180303 Pacocha  
+1705	19 Pasco  		
+1706	19 Pasco	1901 Pasco  	
+1707	19 Pasco	1901 Pasco	190101 Chaupimarca  
+1708	19 Pasco	1901 Pasco	190102 Huachon  
+1709	19 Pasco	1901 Pasco	190103 Huariaca  
+1710	19 Pasco	1901 Pasco	190104 Huayllay  
+1711	19 Pasco	1901 Pasco	190105 Ninacaca  
+1712	19 Pasco	1901 Pasco	190106 Pallanchacra  
+1713	19 Pasco	1901 Pasco	190107 Paucartambo  
+1714	19 Pasco	1901 Pasco	190108 San Francisco de Asís de Yarusyacan 
+1715	19 Pasco	1901 Pasco	190109 Simon Bolívar  
+1716	19 Pasco	1901 Pasco	190110 Ticlacayan  
+1717	19 Pasco	1901 Pasco	190111 Tinyahuarco  
+1718	19 Pasco	1901 Pasco	190112 Vicco  
+1719	19 Pasco	1901 Pasco	190113 Yanacancha  
+1720	19 Pasco	1902 Daniel Alcides Carrión  	
+1721	19 Pasco	1902 Daniel Alcides Carrión	190201 Yanahuanca  
+1722	19 Pasco	1902 Daniel Alcides Carrión	190202 Chacayan  
+1723	19 Pasco	1902 Daniel Alcides Carrión	190203 Goyllarisquizga  
+1724	19 Pasco	1902 Daniel Alcides Carrión	190204 Paucar  
+1725	19 Pasco	1902 Daniel Alcides Carrión	190205 San Pedro de Pillao  
+1726	19 Pasco	1902 Daniel Alcides Carrión	190206 Santa Ana de Tusi  
+1727	19 Pasco	1902 Daniel Alcides Carrión	190207 Tapuc  
+1728	19 Pasco	1902 Daniel Alcides Carrión	190208 Vilcabamba  
+1729	19 Pasco	1903 Oxapampa  	
+1730	19 Pasco	1903 Oxapampa	190301 Oxapampa  
+1731	19 Pasco	1903 Oxapampa	190302 Chontabamba  
+1732	19 Pasco	1903 Oxapampa	190303 Huancabamba  
+1733	19 Pasco	1903 Oxapampa	190304 Palcazu  
+1734	19 Pasco	1903 Oxapampa	190305 Pozuzo  
+1735	19 Pasco	1903 Oxapampa	190306 Puerto Bermúdez  
+1736	19 Pasco	1903 Oxapampa	190307 Villa Rica  
+1737	19 Pasco	1903 Oxapampa	190308 Constitución  
+1738	20 Piura  		
+1739	20 Piura	2001 Piura  	
+1740	20 Piura	2001 Piura	200101 Piura  
+1741	20 Piura	2001 Piura	200104 Castilla  
+1742	20 Piura	2001 Piura	200105 Catacaos  
+1743	20 Piura	2001 Piura	200107 Cura Mori  
+1744	20 Piura	2001 Piura	200108 El Tallan  
+1745	20 Piura	2001 Piura	200109 La Arena  
+1746	20 Piura	2001 Piura	200110 La Unión  
+1747	20 Piura	2001 Piura	200111 Las Lomas  
+1748	20 Piura	2001 Piura	200114 Tambo Grande  
+1749	20 Piura	2001 Piura	200115 Veintiseis de Octubre  
+1750	20 Piura	2002 Ayabaca  	
+1751	20 Piura	2002 Ayabaca	200201 Ayabaca  
+1752	20 Piura	2002 Ayabaca	200202 Frias  
+1753	20 Piura	2002 Ayabaca	200203 Jilili  
+1754	20 Piura	2002 Ayabaca	200204 Lagunas  
+1755	20 Piura	2002 Ayabaca	200205 Montero  
+1756	20 Piura	2002 Ayabaca	200206 Pacaipampa  
+1757	20 Piura	2002 Ayabaca	200207 Paimas  
+1758	20 Piura	2002 Ayabaca	200208 Sapillica  
+1759	20 Piura	2002 Ayabaca	200209 Sicchez  
+1760	20 Piura	2002 Ayabaca	200210 Suyo  
+1761	20 Piura	2003 Huancabamba  	
+1762	20 Piura	2003 Huancabamba	200301 Huancabamba  
+1763	20 Piura	2003 Huancabamba	200302 Canchaque  
+1764	20 Piura	2003 Huancabamba	200303 El Carmen de la Frontera  
+1765	20 Piura	2003 Huancabamba	200304 Huarmaca  
+1766	20 Piura	2003 Huancabamba	200305 Lalaquiz  
+1767	20 Piura	2003 Huancabamba	200306 San Miguel de El Faique  
+1768	20 Piura	2003 Huancabamba	200307 Sondor  
+1769	20 Piura	2003 Huancabamba	200308 Sondorillo  
+1770	20 Piura	2004 Morropón  	
+1771	20 Piura	2004 Morropón	200401 Chulucanas  
+1772	20 Piura	2004 Morropón	200402 Buenos Aires  
+1773	20 Piura	2004 Morropón	200403 Chalaco  
+1774	20 Piura	2004 Morropón	200404 La Matanza  
+1775	20 Piura	2004 Morropón	200405 Morropon  
+1776	20 Piura	2004 Morropón	200406 Salitral  
+1777	20 Piura	2004 Morropón	200407 San Juan de Bigote  
+1778	20 Piura	2004 Morropón	200408 Santa Catalina de Mossa  
+1779	20 Piura	2004 Morropón	200409 Santo Domingo  
+1780	20 Piura	2004 Morropón	200410 Yamango  
+1781	20 Piura	2005 Paita  	
+1782	20 Piura	2005 Paita	200501 Paita  
+1783	20 Piura	2005 Paita	200502 Amotape  
+1784	20 Piura	2005 Paita	200503 Arenal  
+1785	20 Piura	2005 Paita	200504 Colan  
+1786	20 Piura	2005 Paita	200505 La Huaca  
+1787	20 Piura	2005 Paita	200506 Tamarindo  
+1788	20 Piura	2005 Paita	200507 Vichayal  
+1789	20 Piura	2006 Sullana  	
+1790	20 Piura	2006 Sullana	200601 Sullana  
+1791	20 Piura	2006 Sullana	200602 Bellavista  
+1792	20 Piura	2006 Sullana	200603 Ignacio Escudero  
+1793	20 Piura	2006 Sullana	200604 Lancones  
+1794	20 Piura	2006 Sullana	200605 Marcavelica  
+1795	20 Piura	2006 Sullana	200606 Miguel Checa  
+1796	20 Piura	2006 Sullana	200607 Querecotillo  
+1797	20 Piura	2006 Sullana	200608 Salitral  
+1798	20 Piura	2007 Talara  	
+1799	20 Piura	2007 Talara	200701 Pariñas  
+1800	20 Piura	2007 Talara	200702 El Alto  
+1801	20 Piura	2007 Talara	200703 La Brea  
+1802	20 Piura	2007 Talara	200704 Lobitos  
+1803	20 Piura	2007 Talara	200705 Los Organos  
+1804	20 Piura	2007 Talara	200706 Mancora  
+1805	20 Piura	2008 Sechura  	
+1806	20 Piura	2008 Sechura	200801 Sechura  
+1807	20 Piura	2008 Sechura	200802 Bellavista de la Unión  
+1808	20 Piura	2008 Sechura	200803 Bernal  
+1809	20 Piura	2008 Sechura	200804 Cristo Nos Valga  
+1810	20 Piura	2008 Sechura	200805 Vice  
+1811	20 Piura	2008 Sechura	200806 Rinconada Llicuar  
+1812	21 Puno  		
+1813	21 Puno	2101 Puno  	
+1814	21 Puno	2101 Puno	210101 Puno  
+1815	21 Puno	2101 Puno	210102 Acora  
+1816	21 Puno	2101 Puno	210103 Amantani  
+1817	21 Puno	2101 Puno	210104 Atuncolla  
+1818	21 Puno	2101 Puno	210105 Capachica  
+1819	21 Puno	2101 Puno	210106 Chucuito  
+1820	21 Puno	2101 Puno	210107 Coata  
+1821	21 Puno	2101 Puno	210108 Huata  
+1822	21 Puno	2101 Puno	210109 Mañazo  
+1823	21 Puno	2101 Puno	210110 Paucarcolla  
+1824	21 Puno	2101 Puno	210111 Pichacani  
+1825	21 Puno	2101 Puno	210112 Plateria  
+1826	21 Puno	2101 Puno	210113 San Antonio  
+1827	21 Puno	2101 Puno	210114 Tiquillaca  
+1828	21 Puno	2101 Puno	210115 Vilque  
+1829	21 Puno	2102 Azángaro  	
+1830	21 Puno	2102 Azángaro	210201 Azángaro  
+1831	21 Puno	2102 Azángaro	210202 Achaya  
+1832	21 Puno	2102 Azángaro	210203 Arapa  
+1833	21 Puno	2102 Azángaro	210204 Asillo  
+1834	21 Puno	2102 Azángaro	210205 Caminaca  
+1835	21 Puno	2102 Azángaro	210206 Chupa  
+1836	21 Puno	2102 Azángaro	210207 José Domingo Choquehuanca  
+1837	21 Puno	2102 Azángaro	210208 Muñani  
+1838	21 Puno	2102 Azángaro	210209 Potoni  
+1839	21 Puno	2102 Azángaro	210210 Saman  
+1840	21 Puno	2102 Azángaro	210211 San Anton  
+1841	21 Puno	2102 Azángaro	210212 San José  
+1842	21 Puno	2102 Azángaro	210213 San Juan de Salinas  
+1843	21 Puno	2102 Azángaro	210214 Santiago de Pupuja  
+1844	21 Puno	2102 Azángaro	210215 Tirapata  
+1845	21 Puno	2103 Carabaya  	
+1846	21 Puno	2103 Carabaya	210301 Macusani  
+1847	21 Puno	2103 Carabaya	210302 Ajoyani  
+1848	21 Puno	2103 Carabaya	210303 Ayapata  
+1849	21 Puno	2103 Carabaya	210304 Coasa  
+1850	21 Puno	2103 Carabaya	210305 Corani  
+1851	21 Puno	2103 Carabaya	210306 Crucero  
+1852	21 Puno	2103 Carabaya	210307 Ituata  
+1853	21 Puno	2103 Carabaya	210308 Ollachea  
+1854	21 Puno	2103 Carabaya	210309 San Gaban  
+1855	21 Puno	2103 Carabaya	210310 Usicayos  
+1856	21 Puno	2104 Chucuito  	
+1857	21 Puno	2104 Chucuito	210401 Juli  
+1858	21 Puno	2104 Chucuito	210402 Desaguadero  
+1859	21 Puno	2104 Chucuito	210403 Huacullani  
+1860	21 Puno	2104 Chucuito	210404 Kelluyo  
+1861	21 Puno	2104 Chucuito	210405 Pisacoma  
+1862	21 Puno	2104 Chucuito	210406 Pomata  
+1863	21 Puno	2104 Chucuito	210407 Zepita  
+1864	21 Puno	2105 El Collao  	
+1865	21 Puno	2105 El Collao	210501 Ilave  
+1866	21 Puno	2105 El Collao	210502 Capazo  
+1867	21 Puno	2105 El Collao	210503 Pilcuyo  
+1868	21 Puno	2105 El Collao	210504 Santa Rosa  
+1869	21 Puno	2105 El Collao	210505 Conduriri  
+1870	21 Puno	2106 Huancané  	
+1871	21 Puno	2106 Huancané	210601 Huancane  
+1872	21 Puno	2106 Huancané	210602 Cojata  
+1873	21 Puno	2106 Huancané	210603 Huatasani  
+1874	21 Puno	2106 Huancané	210604 Inchupalla  
+1875	21 Puno	2106 Huancané	210605 Pusi  
+1876	21 Puno	2106 Huancané	210606 Rosaspata  
+1877	21 Puno	2106 Huancané	210607 Taraco  
+1878	21 Puno	2106 Huancané	210608 Vilque Chico  
+1879	21 Puno	2107 Lampa  	
+1880	21 Puno	2107 Lampa	210701 Lampa  
+1881	21 Puno	2107 Lampa	210702 Cabanilla  
+1882	21 Puno	2107 Lampa	210703 Calapuja  
+1883	21 Puno	2107 Lampa	210704 Nicasio  
+1884	21 Puno	2107 Lampa	210705 Ocuviri  
+1885	21 Puno	2107 Lampa	210706 Palca  
+1886	21 Puno	2107 Lampa	210707 Paratia  
+1887	21 Puno	2107 Lampa	210708 Pucara  
+1888	21 Puno	2107 Lampa	210709 Santa Lucia  
+1889	21 Puno	2107 Lampa	210710 Vilavila  
+1890	21 Puno	2108 Melgar  	
+1891	21 Puno	2108 Melgar	210801 Ayaviri  
+1892	21 Puno	2108 Melgar	210802 Antauta  
+1893	21 Puno	2108 Melgar	210803 Cupi  
+1894	21 Puno	2108 Melgar	210804 Llalli  
+1895	21 Puno	2108 Melgar	210805 Macari  
+1896	21 Puno	2108 Melgar	210806 Nuñoa  
+1897	21 Puno	2108 Melgar	210807 Orurillo  
+1898	21 Puno	2108 Melgar	210808 Santa Rosa  
+1899	21 Puno	2108 Melgar	210809 Umachiri  
+1900	21 Puno	2109 Moho  	
+1901	21 Puno	2109 Moho	210901 Moho  
+1902	21 Puno	2109 Moho	210902 Conima  
+1903	21 Puno	2109 Moho	210903 Huayrapata  
+1904	21 Puno	2109 Moho	210904 Tilali  
+1905	21 Puno	2110 San Antonio de Putina  	
+1906	21 Puno	2110 San Antonio de Putina	211001 Putina  
+1907	21 Puno	2110 San Antonio de Putina	211002 Ananea  
+1908	21 Puno	2110 San Antonio de Putina	211003 Pedro Vilca Apaza  
+1909	21 Puno	2110 San Antonio de Putina	211004 Quilcapuncu  
+1910	21 Puno	2110 San Antonio de Putina	211005 Sina  
+1911	21 Puno	2111 San Román  	
+1912	21 Puno	2111 San Román	211101 Juliaca  
+1913	21 Puno	2111 San Román	211102 Cabana  
+1914	21 Puno	2111 San Román	211103 Cabanillas  
+1915	21 Puno	2111 San Román	211104 Caracoto  
+1916	21 Puno	2111 San Román	211105 San Miguel  
+1917	21 Puno	2112 Sandia  	
+1918	21 Puno	2112 Sandia	211201 Sandia  
+1919	21 Puno	2112 Sandia	211202 Cuyocuyo  
+1920	21 Puno	2112 Sandia	211203 Limbani  
+1921	21 Puno	2112 Sandia	211204 Patambuco  
+1922	21 Puno	2112 Sandia	211205 Phara  
+1923	21 Puno	2112 Sandia	211206 Quiaca  
+1924	21 Puno	2112 Sandia	211207 San Juan del Oro  
+1925	21 Puno	2112 Sandia	211208 Yanahuaya  
+1926	21 Puno	2112 Sandia	211209 Alto Inambari  
+1927	21 Puno	2112 Sandia	211210 San Pedro de Putina Punco  
+1928	21 Puno	2113 Yunguyo  	
+1929	21 Puno	2113 Yunguyo	211301 Yunguyo  
+1930	21 Puno	2113 Yunguyo	211302 Anapia  
+1931	21 Puno	2113 Yunguyo	211303 Copani  
+1932	21 Puno	2113 Yunguyo	211304 Cuturapi  
+1933	21 Puno	2113 Yunguyo	211305 Ollaraya  
+1934	21 Puno	2113 Yunguyo	211306 Tinicachi  
+1935	21 Puno	2113 Yunguyo	211307 Unicachi  
+1936	22 San Martín  		
+1937	22 San Martín	2201 Moyobamba  	
+1938	22 San Martín	2201 Moyobamba	220101 Moyobamba  
+1939	22 San Martín	2201 Moyobamba	220102 Calzada  
+1940	22 San Martín	2201 Moyobamba	220103 Habana  
+1941	22 San Martín	2201 Moyobamba	220104 Jepelacio  
+1942	22 San Martín	2201 Moyobamba	220105 Soritor  
+1943	22 San Martín	2201 Moyobamba	220106 Yantalo  
+1944	22 San Martín	2202 Bellavista  	
+1945	22 San Martín	2202 Bellavista	220201 Bellavista  
+1946	22 San Martín	2202 Bellavista	220202 Alto Biavo  
+1947	22 San Martín	2202 Bellavista	220203 Bajo Biavo  
+1948	22 San Martín	2202 Bellavista	220204 Huallaga  
+1949	22 San Martín	2202 Bellavista	220205 San Pablo  
+1950	22 San Martín	2202 Bellavista	220206 San Rafael  
+1951	22 San Martín	2203 El Dorado  	
+1952	22 San Martín	2203 El Dorado	220301 San José de Sisa  
+1953	22 San Martín	2203 El Dorado	220302 Agua Blanca  
+1954	22 San Martín	2203 El Dorado	220303 San Martín  
+1955	22 San Martín	2203 El Dorado	220304 Santa Rosa  
+1956	22 San Martín	2203 El Dorado	220305 Shatoja  
+1957	22 San Martín	2204 Huallaga  	
+1958	22 San Martín	2204 Huallaga	220401 Saposoa  
+1959	22 San Martín	2204 Huallaga	220402 Alto Saposoa  
+1960	22 San Martín	2204 Huallaga	220403 El Eslabón  
+1961	22 San Martín	2204 Huallaga	220404 Piscoyacu  
+1962	22 San Martín	2204 Huallaga	220405 Sacanche  
+1963	22 San Martín	2204 Huallaga	220406 Tingo de Saposoa  
+1964	22 San Martín	2205 Lamas  	
+1965	22 San Martín	2205 Lamas	220501 Lamas  
+1966	22 San Martín	2205 Lamas	220502 Alonso de Alvarado  
+1967	22 San Martín	2205 Lamas	220503 Barranquita  
+1968	22 San Martín	2205 Lamas	220504 Caynarachi  
+1969	22 San Martín	2205 Lamas	220505 Cuñumbuqui  
+1970	22 San Martín	2205 Lamas	220506 Pinto Recodo  
+1971	22 San Martín	2205 Lamas	220507 Rumisapa  
+1972	22 San Martín	2205 Lamas	220508 San Roque de Cumbaza  
+1973	22 San Martín	2205 Lamas	220509 Shanao  
+1974	22 San Martín	2205 Lamas	220510 Tabalosos  
+1975	22 San Martín	2205 Lamas	220511 Zapatero  
+1976	22 San Martín	2206 Mariscal Cáceres  	
+1977	22 San Martín	2206 Mariscal Cáceres	220601 Juanjuí  
+1978	22 San Martín	2206 Mariscal Cáceres	220602 Campanilla  
+1979	22 San Martín	2206 Mariscal Cáceres	220603 Huicungo  
+1980	22 San Martín	2206 Mariscal Cáceres	220604 Pachiza  
+1981	22 San Martín	2206 Mariscal Cáceres	220605 Pajarillo  
+1982	22 San Martín	2207 Picota  	
+1983	22 San Martín	2207 Picota	220701 Picota  
+1984	22 San Martín	2207 Picota	220702 Buenos Aires  
+1985	22 San Martín	2207 Picota	220703 Caspisapa  
+1986	22 San Martín	2207 Picota	220704 Pilluana  
+1987	22 San Martín	2207 Picota	220705 Pucacaca  
+1988	22 San Martín	2207 Picota	220706 San Cristóbal  
+1989	22 San Martín	2207 Picota	220707 San Hilarión  
+1990	22 San Martín	2207 Picota	220708 Shamboyacu  
+1991	22 San Martín	2207 Picota	220709 Tingo de Ponasa  
+1992	22 San Martín	2207 Picota	220710 Tres Unidos  
+1993	22 San Martín	2208 Rioja  	
+1994	22 San Martín	2208 Rioja	220801 Rioja  
+1995	22 San Martín	2208 Rioja	220802 Awajun  
+1996	22 San Martín	2208 Rioja	220803 Elías Soplin Vargas  
+1997	22 San Martín	2208 Rioja	220804 Nueva Cajamarca  
+1998	22 San Martín	2208 Rioja	220805 Pardo Miguel  
+1999	22 San Martín	2208 Rioja	220806 Posic  
+2000	22 San Martín	2208 Rioja	220807 San Fernando  
+2001	22 San Martín	2208 Rioja	220808 Yorongos  
+2002	22 San Martín	2208 Rioja	220809 Yuracyacu  
+2003	22 San Martín	2209 San Martín  	
+2004	22 San Martín	2209 San Martín	220901 Tarapoto  
+2005	22 San Martín	2209 San Martín	220902 Alberto Leveau  
+2006	22 San Martín	2209 San Martín	220903 Cacatachi  
+2007	22 San Martín	2209 San Martín	220904 Chazuta  
+2008	22 San Martín	2209 San Martín	220905 Chipurana  
+2009	22 San Martín	2209 San Martín	220906 El Porvenir  
+2010	22 San Martín	2209 San Martín	220907 Huimbayoc  
+2011	22 San Martín	2209 San Martín	220908 Juan Guerra  
+2012	22 San Martín	2209 San Martín	220909 La Banda de Shilcayo  
+2013	22 San Martín	2209 San Martín	220910 Morales  
+2014	22 San Martín	2209 San Martín	220911 Papaplaya  
+2015	22 San Martín	2209 San Martín	220912 San Antonio  
+2016	22 San Martín	2209 San Martín	220913 Sauce  
+2017	22 San Martín	2209 San Martín	220914 Shapaja  
+2018	22 San Martín	2210 Tocache  	
+2019	22 San Martín	2210 Tocache	221001 Tocache  
+2020	22 San Martín	2210 Tocache	221002 Nuevo Progreso  
+2021	22 San Martín	2210 Tocache	221003 Polvora  
+2022	22 San Martín	2210 Tocache	221004 Shunte  
+2023	22 San Martín	2210 Tocache	221005 Uchiza  
+2024	23 Tacna  		
+2025	23 Tacna	2301 Tacna  	
+2026	23 Tacna	2301 Tacna	230101 Tacna  
+2027	23 Tacna	2301 Tacna	230102 Alto de la Alianza  
+2028	23 Tacna	2301 Tacna	230103 Calana  
+2029	23 Tacna	2301 Tacna	230104 Ciudad Nueva  
+2030	23 Tacna	2301 Tacna	230105 Inclan  
+2031	23 Tacna	2301 Tacna	230106 Pachia  
+2032	23 Tacna	2301 Tacna	230107 Palca  
+2033	23 Tacna	2301 Tacna	230108 Pocollay  
+2034	23 Tacna	2301 Tacna	230109 Sama  
+2035	23 Tacna	2301 Tacna	230110 Coronel Gregorio Albarracín Lanchipa 
+2036	23 Tacna	2301 Tacna	230111 La Yarada los Palos  
+2037	23 Tacna	2302 Candarave  	
+2038	23 Tacna	2302 Candarave	230201 Candarave  
+2039	23 Tacna	2302 Candarave	230202 Cairani  
+2040	23 Tacna	2302 Candarave	230203 Camilaca  
+2041	23 Tacna	2302 Candarave	230204 Curibaya  
+2042	23 Tacna	2302 Candarave	230205 Huanuara  
+2043	23 Tacna	2302 Candarave	230206 Quilahuani  
+2044	23 Tacna	2303 Jorge Basadre  	
+2045	23 Tacna	2303 Jorge Basadre	230301 Locumba  
+2046	23 Tacna	2303 Jorge Basadre	230302 Ilabaya  
+2047	23 Tacna	2303 Jorge Basadre	230303 Ite  
+2048	23 Tacna	2304 Tarata  	
+2049	23 Tacna	2304 Tarata	230401 Tarata  
+2050	23 Tacna	2304 Tarata	230402 Héroes Albarracín  
+2051	23 Tacna	2304 Tarata	230403 Estique  
+2052	23 Tacna	2304 Tarata	230404 Estique-Pampa  
+2053	23 Tacna	2304 Tarata	230405 Sitajara  
+2054	23 Tacna	2304 Tarata	230406 Susapaya  
+2055	23 Tacna	2304 Tarata	230407 Tarucachi  
+2056	23 Tacna	2304 Tarata	230408 Ticaco  
+2057	24 Tumbes  		
+2058	24 Tumbes	2401 Tumbes  	
+2059	24 Tumbes	2401 Tumbes	240101 Tumbes  
+2060	24 Tumbes	2401 Tumbes	240102 Corrales  
+2061	24 Tumbes	2401 Tumbes	240103 La Cruz  
+2062	24 Tumbes	2401 Tumbes	240104 Pampas de Hospital  
+2063	24 Tumbes	2401 Tumbes	240105 San Jacinto  
+2064	24 Tumbes	2401 Tumbes	240106 San Juan de la Virgen  
+2065	24 Tumbes	2402 Contralmirante Villar  	
+2066	24 Tumbes	2402 Contralmirante Villar	240201 Zorritos  
+2067	24 Tumbes	2402 Contralmirante Villar	240202 Casitas  
+2068	24 Tumbes	2402 Contralmirante Villar	240203 Canoas de Punta Sal  
+2069	24 Tumbes	2403 Zarumilla  	
+2070	24 Tumbes	2403 Zarumilla	240301 Zarumilla  
+2071	24 Tumbes	2403 Zarumilla	240302 Aguas Verdes  
+2072	24 Tumbes	2403 Zarumilla	240303 Matapalo  
+2073	24 Tumbes	2403 Zarumilla	240304 Papayal  
+2074	25 Ucayali  		
+2075	25 Ucayali	2501 Coronel Portillo  	
+2076	25 Ucayali	2501 Coronel Portillo	250101 Calleria  
+2077	25 Ucayali	2501 Coronel Portillo	250102 Campoverde  
+2078	25 Ucayali	2501 Coronel Portillo	250103 Iparia  
+2079	25 Ucayali	2501 Coronel Portillo	250104 Masisea  
+2080	25 Ucayali	2501 Coronel Portillo	250105 Yarinacocha  
+2081	25 Ucayali	2501 Coronel Portillo	250106 Nueva Requena  
+2082	25 Ucayali	2501 Coronel Portillo	250107 Manantay  
+2083	25 Ucayali	2502 Atalaya  	
+2084	25 Ucayali	2502 Atalaya	250201 Raymondi  
+2085	25 Ucayali	2502 Atalaya	250202 Sepahua  
+2086	25 Ucayali	2502 Atalaya	250203 Tahuania  
+2087	25 Ucayali	2502 Atalaya	250204 Yurua  
+2088	25 Ucayali	2503 Padre Abad  	
+2089	25 Ucayali	2503 Padre Abad	250301 Padre Abad  
+2090	25 Ucayali	2503 Padre Abad	250302 Irazola  
+2091	25 Ucayali	2503 Padre Abad	250303 Curimana  
+2092	25 Ucayali	2503 Padre Abad	250304 Neshuya  
+2093	25 Ucayali	2503 Padre Abad	250305 Alexander Von Humboldt  
+2094	25 Ucayali	2504 Purús  	
+2095	25 Ucayali	2504 Purús	250401 Purus  
