@@ -20,39 +20,28 @@ class Table {
     buildTBody() {
         let tpl = '';
 
+        const createRow = (...content) => {
+            return `
+                  <tr>
+                    <td>${content[0]}</td>
+                    <td>${content[1]}</td>
+                    <td>${content[2] || '-'}</td>
+                    <td>${content[3] || '-'}</td>
+                  </tr>
+                `;
+        };
+
         tpl += '<tbody>';
         tpl += this.data.map(obj => {
             if (obj.constructor.name === 'Departamento') {
-                return `
-                  <tr>
-                    <td>${obj.id}</td>
-                    <td>${obj.nombre}</td>
-                    <td>-</td>
-                    <td>-</td>
-                  </tr>
-                `;
+                return createRow(obj.id, obj.nombre);
             }
             if (obj.constructor.name === 'Provincia') {
-                return `
-                  <tr>
-                    <td>${obj.id}</td>
-                    <td>${obj.nombre}</td>
-                    <td>${obj.departamento.id}</td>
-                    <td>${obj.departamento.nombre}</td>
-                  </tr>
-                `;
+                return createRow(obj.id, obj.nombre, obj.departamento.id, obj.departamento.nombre);
             }
             if (obj.constructor.name === 'Distrito') {
-                return `
-                  <tr>
-                    <td>${obj.id}</td>
-                    <td>${obj.nombre}</td>
-                    <td>${obj.provincia.id}</td>
-                    <td>${obj.provincia.nombre}</td>
-                  </tr>
-                `;
+                return createRow(obj.id, obj.nombre, obj.provincia.id, obj.provincia.nombre);
             }
-            tpl += '</tr>';
         }).join('');
         tpl += '</tbody>';
 
